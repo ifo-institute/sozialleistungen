@@ -1,0 +1,4095 @@
+SGB II:
+  Leistungen der Grundsicherung für Arbeitssuchende:
+  - leistung: Leistungen zur Eingliederung in Arbeit, Beratung für sicherungsempfangende
+      Arbeitssuchende.
+    rechtsnorm: § 14 Abs. 2 Grundsatz des Förderns SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen zur Eingliederung in Arbeit, Potentialanalyse und Kooperationsplan.
+    rechtsnorm: § 15 Potenzialanalyse und Kooperationsplan SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen zur Eingliederung in Arbeit, Kommunale Eingliederungsleistungen
+      dazu gehören die Betreuung minderjähriger Kinder oder von Kindern mit Behinderungen
+      oder die häusliche Pflege von Angehörigen, Schuldnerberatung, psychosoziale
+      Betreuung und  Suchtberatung.
+    rechtsnorm: § 16a Kommunale Eingliederungsleistungen SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen zur Eingliederung in Arbeit, Einstiegsgeld.
+    rechtsnorm: § 16b Einstiegsgeld SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen zur Eingliederung in Arbeit, Leistungen zur Eingliederung
+      von Selbstständigen z. B. Darlehen oder Zuschüsse.
+    rechtsnorm: § 16c Leistungen zur Eingliederung von Selbständigen SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen zur Eingliederung in Arbeit, Förderung von Arbeitsgelegenheiten.
+    rechtsnorm: § 16d Arbeitsgelegenheiten SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen zur Eingliederung in Arbeit, Eingliederung von Langzeitarbeitslosen
+      (2+ Jahre).
+    rechtsnorm: § 16e Eingliederung von Langzeitarbeitslosen SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen zur Eingliederung in Arbeit, Freie Förderung.
+    rechtsnorm: § 16f Freie Förderung SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen zur Eingliederung in Arbeit, Förderung schwer zu erreichender
+      junger Menschen.
+    rechtsnorm: § 16h Förderung schwer zu erreichender junger Menschen SGB II
+    zielgruppen:
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen zur Eingliederung in Arbeit, Eingliederung von Langzeitarbeitslosen
+      (sechs der letzten sieben Kalenderjahre).
+    rechtsnorm: § 16i Teilhabe am Arbeitsmarkt SGB II
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen zur Eingliederung in Arbeit, Ganzheitliche Betreuung.
+    rechtsnorm: § 16k Ganzheitliche Betreuung SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts - Bürgergeld, ALG2/ Bürgergeld
+      - Erwerbsalter (Regelbedarf).
+    rechtsnorm: § 20 Regelbedarf zur Sicherung des Lebensunterhalts SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts - Bürgergeld, Mehrbedarf
+      für werdende Mütter.
+    rechtsnorm: § 21 Abs 2. Mehrbedarfe SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts - Bürgergeld, Mehrbedarf
+      für Alleinerziehende.
+    rechtsnorm: § 21 Abs 3. Mehrbedarfe SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts - Bürgergeld, Mehrbedarf
+      bei Behinderung.
+    rechtsnorm: § 21 Abs 4. Mehrbedarfe SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts - Bürgergeld, Mehrbedarf
+      für medizinisch bedingte kostenaufwendige Ernährung.
+    rechtsnorm: § 21 Abs 5. Mehrbedarfe SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts - Bürgergeld, Mehrbedarf
+      für besondere Umstände.
+    rechtsnorm: § 21 Abs 6. Mehrbedarfe SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts - Bürgergeld, Mehrbedarf
+      für Schulbücher und gleichstehende Arbeitshefte.
+    rechtsnorm: § 21 Abs 6a. Mehrbedarfe SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Bildung & Qualifizierung
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts - Bürgergeld, Mehrbedarf
+      für dezentrale Warmwassererzeugung.
+    rechtsnorm: § 21 Abs 7. Mehrbedarfe SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts - Bürgergeld, Kosten der
+      Unterkunft.
+    rechtsnorm: § 22 Bedarfe für Unterkunft und Heizung SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts, Einzelfalldarlehen für
+      nicht deckbare Bedarfsansprüche.
+    rechtsnorm: § 24 Abs. 1 Abweichende Erbringung von Leistungen SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts, den Regelbedarf ganz
+      oder anteilig ersetzende Sachleistungen.
+    rechtsnorm: § 24 Abs. 2 Abweichende Erbringung von Leistungen SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts, Erstausstattung für die
+      Wohnung.
+    rechtsnorm: § 24 Abs. 3 Satz 1 Abweichende Erbringung von Leistungen SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts, Erstausstattung bei Schwangerschaft
+      und Geburt.
+    rechtsnorm: § 24 Abs. 3 Satz 2 Abweichende Erbringung von Leistungen SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts, Erstausstattung für orthopädische
+      Geräte.
+    rechtsnorm: § 24 Abs. 3 Satz 3 Abweichende Erbringung von Leistungen SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts, Zuschuss zu Beiträgen
+      zur privaten Krankenversicherung für Bürgergeld-Bezieher.
+    rechtsnorm: § 26 Abs. 1 Zuschüsse zu Beiträgen zur Krankenversicherung und Pflegeversicherung
+      SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts, Anteiliger Zuschuss zu
+      den Krankenversicherungsbeiträgen zur Vermeidung von Hilfebedürftigkeit.
+    rechtsnorm: § 26 Abs. 2 Zuschüsse zu Beiträgen zur Krankenversicherung und Pflegeversicherung
+      SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts, Zuschuss zu Beiträgen
+      zur privaten Pflegeversicherung für Bürgergeld-Bezieher.
+    rechtsnorm: § 26 Abs. 3 Zuschüsse zu Beiträgen zur Krankenversicherung und Pflegeversicherung
+      SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts, Anteiliger Zuschuss zu
+      den Pflegeversicherungsbeiträgen zur Vermeidung von Hilfebedürftigkeit.
+    rechtsnorm: § 26 Abs. 4 Zuschüsse zu Beiträgen zur Krankenversicherung und Pflegeversicherung
+      SGB II
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts, Kostenübernahme für
+      Schul-/Kitaausflüge.
+    rechtsnorm: § 28 Abs. 2 S.1 Bedarfe für Bildung und Teilhabe SGB II
+    zielgruppen:
+    - Jugendliche
+    - Kinder
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Bildung & Qualifizierung
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts, Kostenübernahme für mehrtägige
+      Klassenfahrten.
+    rechtsnorm: § 28 Abs. 2 S.2 Bedarfe für Bildung und Teilhabe SGB II
+    zielgruppen:
+    - Jugendliche
+    - Kinder
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Bildung & Qualifizierung
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts, Zuschuss zum persönlichen
+      Schulbedarf.
+    rechtsnorm: § 28 Abs. 3 Bedarfe für Bildung und Teilhabe SGB II
+    zielgruppen:
+    - Jugendliche
+    - Kinder
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Bildung & Qualifizierung
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts, Zuschuss zu Beförderungskosten
+      zur Schule.
+    rechtsnorm: § 28 Abs. 4 Bedarfe für Bildung und Teilhabe SGB II
+    zielgruppen:
+    - Jugendliche
+    - Kinder
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Bildung & Qualifizierung
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts, Bedarf für ergänzende
+      Lernförderung.
+    rechtsnorm: § 28 Abs. 5 Bedarfe für Bildung und Teilhabe SGB II
+    zielgruppen:
+    - Jugendliche
+    - Kinder
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Bildung & Qualifizierung
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts, Gutschein/Zuschuss zur
+      Mittagsverpflegung für Schüler und Kindergartenkinder.
+    rechtsnorm: § 28 Abs. 6 Bedarfe für Bildung und Teilhabe SGB II
+    zielgruppen:
+    - Jugendliche
+    - Kinder
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Bildung & Qualifizierung
+  - leistung: Leistungen zur Sicherung des Lebensunterhalts, Zuschuss zur Teilnahme
+      am sozialen und kulturellen Leben
+    rechtsnorm: § 28 Abs. 7 Bedarfe für Bildung und Teilhabe SGB II
+    zielgruppen:
+    - Jugendliche
+    - Kinder
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Bildung & Qualifizierung
+SGB III:
+  Leistungen der Ausbildungsförderung:
+  - leistung: Leistungen für Auszubildende, Mehrbedarf für werdende Mütter.
+    rechtsnorm: § 27 Abs. 2 Versicherungsfreie Beschäftigte SGB III
+    zielgruppen:
+    - Jugendliche
+    - Erwerbsalter
+    themenfelder:
+    - Bildung & Qualifizierung
+  - leistung: Leistungen für Auszubildende, Mehrbedarf für Alleinerziehende.
+    rechtsnorm: § 27 Abs. 2 Versicherungsfreie Beschäftigte SGB III
+    zielgruppen:
+    - Jugendliche
+    - Erwerbsalter
+    themenfelder:
+    - Bildung & Qualifizierung
+  - leistung: Leistungen für Auszubildende, Mehrbedarf für medizinisch bedingte kostenaufwendige
+      Ernährung.
+    rechtsnorm: § 27 Abs. 2 Versicherungsfreie Beschäftigte SGB III
+    zielgruppen:
+    - Jugendliche
+    - Erwerbsalter
+    themenfelder:
+    - Bildung & Qualifizierung
+  - leistung: Leistungen für Auszubildende, Mehrbedarf für besondere Umstände.
+    rechtsnorm: § 27 Abs. 2 Versicherungsfreie Beschäftigte SGB III
+    zielgruppen:
+    - Jugendliche
+    - Erwerbsalter
+    themenfelder:
+    - Bildung & Qualifizierung
+  - leistung: Leistungen für Auszubildende, Erstausstattung bei Schwangerschaft und
+      Geburt.
+    rechtsnorm: § 27 Abs. 2 Versicherungsfreie Beschäftigte SGB III
+    zielgruppen:
+    - Jugendliche
+    - Erwerbsalter
+    themenfelder:
+    - Bildung & Qualifizierung
+  - leistung: Härtefalldarlehen für Auszubildende, Mehrbedarf für dezentrale Warmwassererzeugung.
+    rechtsnorm: § 27 Abs. 3 Versicherungsfreie Beschäftigte SGB III
+    zielgruppen:
+    - Jugendliche
+    - Erwerbsalter
+    themenfelder:
+    - Bildung & Qualifizierung
+  - leistung: Härtefalldarlehen für Auszubildende, Bedarf für Unterkunft und Heizung.
+    rechtsnorm: § 27 Abs. 3 Versicherungsfreie Beschäftigte SGB III
+    zielgruppen:
+    - Jugendliche
+    - Erwerbsalter
+    themenfelder:
+    - Bildung & Qualifizierung
+  - leistung: Härtefalldarlehen für Auszubildende, Bedarf für Bildung und Teilhabe.
+    rechtsnorm: § 27 Abs. 3 Versicherungsfreie Beschäftigte SGB III
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Härtefalldarlehen für Auszubildende, Beiträge zur Kranken- und Pflegeversicherung.
+    rechtsnorm: § 27 Abs. 3 Versicherungsfreie Beschäftigte SGB III
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  Arbeitsförderung:
+  - leistung: Aktive Arbeitsförderung, Beratung, Berufsberatung, Weiterbildungsberatung
+      für interessierte Arbeitswillige.
+    rechtsnorm: § 29 Beratungsangebot SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, proaktive Beratung perspektivloser Schulabsolventen.
+    rechtsnorm: § 31a Informationen an junge Menschen ohne Anschlussperspektive; erforderliche
+      Datenerhebung und Datenübermittlung SGB III
+    zielgruppen:
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, diverse Berufsorientierungsmaßnahmen.
+    rechtsnorm: § 33 Berufsorientierung SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Bildung & Qualifizierung
+  - leistung: Aktive Arbeitsförderung, Arbeitsvermittlung durch Jobcenter.
+    rechtsnorm: § 35 Vermittlungsangebot SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Potenzialanalyse.
+    rechtsnorm: § 37 Potenzialanalyse und Eingliederungsvereinbarung SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Arbeitsvermittlung durch Jobcenter für Asylsuchende.
+    rechtsnorm: § 39a Frühzeitige Förderung von Ausländerinnen und Ausländern mit
+      Aufenthaltsgestattung SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Potenzialanalyse für Asylsuchende.
+    rechtsnorm: § 39a Frühzeitige Förderung von Ausländerinnen und Ausländern mit
+      Aufenthaltsgestattung SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Aktivierung und berufliche Eingliederung von
+      Arbeitslosen und von Arbeitslosigkeit bedrohten Arbeitssuchenden und Ausbildungssuchenden.
+    rechtsnorm: § 44 Förderung aus dem Vermittlungsbudget SGB III
+    zielgruppen:
+    - Erwerbsalter
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, erweiterte Maßnahmen zur Aktivierung und beruflichen
+      Eingliederung.
+    rechtsnorm: § 45 Maßnahmen zur Aktivierung und beruflichen Eingliederung SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, subventionierte Probebeschäftigung für Behinderte.
+    rechtsnorm: § 46 Abs. 1 Probebeschäftigung und Arbeitshilfe für Menschen mit Behinderungen
+      SGB III
+    zielgruppen:
+    - Erwerbsalter
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Aktive Arbeitsförderung, Ausstattungsunterstützung für behinderte Angestellte.
+    rechtsnorm: § 46 Abs. 2 Probebeschäftigung und Arbeitshilfe für Menschen mit Behinderungen
+      SGB III
+    zielgruppen:
+    - Erwerbsalter
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Aktive Arbeitsförderung, Förderung von Berufsberatung für Schüler.
+    rechtsnorm: § 48 Berufsorientierungsmaßnahmen SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Bildung & Qualifizierung
+  - leistung: Aktive Arbeitsförderung, Berufsorientierungspraktikum für Schüler.
+    rechtsnorm: § 48a Berufsorientierungspraktikum SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Bildung & Qualifizierung
+  - leistung: Aktive Arbeitsförderung, Förderung der Berufseinstiegsbegleitung für
+      junge Menschen.
+    rechtsnorm: § 49 Berufseinstiegsbegleitung SGB III
+    zielgruppen:
+    - Jugendliche
+    - Erwerbsalter
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Berufsvorbereitende Bildungsmaßnahmen.
+    rechtsnorm: § 51 Berufsvorbereitende Bildungsmaßnahmen SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Bildung & Qualifizierung
+  - leistung: Aktive Arbeitsförderung, Vorbereitung auf einen Hauptschulabschlusserwerb.
+    rechtsnorm: § 53 Vorbereitung auf einen Hauptschulabschluss im Rahmen einer berufsvorbereitenden
+      Bildungsmaßnahme SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Bildung & Qualifizierung
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Förderung von Einstiegsqualifizierungen.
+    rechtsnorm: § 54a Einstiegsqualifizierung SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Bildung & Qualifizierung
+  - leistung: Aktive Arbeitsförderung, Berufsausbildungsbeihilfe.
+    rechtsnorm: § 56 Berufsausbildungsbeihilfe SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Fahrtkostenerstattung der Berufsausbildungsbeihilfe.
+    rechtsnorm: § 56 Berufsausbildungsbeihilfe SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Bildung & Qualifizierung
+  - leistung: Aktive Arbeitsförderung, flexible erweiterte Leistungen der Berufsausbildungsbeihilfe.
+    rechtsnorm: § 64 Sonstige Aufwendungen SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Bildung & Qualifizierung
+  - leistung: Aktive Arbeitsförderung, Berufsausbildungsbeihilfe durch Kinderpauschale.
+    rechtsnorm: § 64 Sonstige Aufwendungen SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Aktive Arbeitsförderung, Berufsausbildungsbeihilfe für Arbeitslose.
+    rechtsnorm: § 70 Berufsausbildungsbeihilfe für Arbeitslose SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Bildung & Qualifizierung
+  - leistung: Aktive Arbeitsförderung, Ausbildungsvergütungszuschüsse für Behinderte.
+    rechtsnorm: § 73 Zuschüsse zur Ausbildungsvergütung für Menschen mit Behinderungen
+      und schwerbehinderte Menschen SGB III
+    zielgruppen:
+    - Jugendliche
+    - Erwerbsalter
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Bildung & Qualifizierung
+  - leistung: Aktive Arbeitsförderung, Mobilitätszuschuss für junge Auszubildende
+      im ersten Ausbildungsjahr.
+    rechtsnorm: § 73a Mobilitätszuschuss SGB III
+    zielgruppen:
+    - Jugendliche
+    - Erwerbsalter
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Bildung & Qualifizierung
+  - leistung: Aktive Arbeitsförderung, assistierte Ausbildung.
+    rechtsnorm: § 74 Assistierte Ausbildung SGB III
+    zielgruppen:
+    - Jugendliche
+    - Erwerbsalter
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Bildung & Qualifizierung
+  - leistung: Aktive Arbeitsförderung, Ausbildungsbegleitende Hilfen.
+    rechtsnorm: § 75 Begleitende Phase der Assistierten Ausbildung SGB III
+    zielgruppen:
+    - Jugendliche
+    - Erwerbsalter
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Bildung & Qualifizierung
+  - leistung: Aktive Arbeitsförderung, Unterstützung außerbetriebliche Berufsausbildung.
+    rechtsnorm: § 76 Außerbetriebliche Berufsausbildung SGB III
+    zielgruppen:
+    - Jugendliche
+    - Erwerbsalter
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Bildung & Qualifizierung
+  - leistung: Aktive Arbeitsförderung, Bildungsgutschein für Arbeitslose.
+    rechtsnorm: § 81 Grundsatz SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Weiterbildungsförderung für Beschäftigte.
+    rechtsnorm: § 82 Förderung beschäftigter Arbeitnehmerinnen und Arbeitnehmer SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Qualifizierungsgeld.
+    rechtsnorm: § 82a Qualifizierungsgeld SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Erstattung von Kosten für auswärtige Unterbringung
+      und für Verpflegung im Rahmen einer Weiterbildung.
+    rechtsnorm: § 86 Kosten für auswärtige Unterbringung und für Verpflegung SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Erstattung von Kosten für Kinderbetreuung im
+      Rahmen einer Weiterbildung.
+    rechtsnorm: § 87 Kinderbetreuungskosten SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Weiterbildungsprämie/Weiterbildungsgeld.
+    rechtsnorm: § 87a Weiterbildungsprämie und Weiterbildungsgeld SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Bildung & Qualifizierung
+  - leistung: Aktive Arbeitsförderung, Eingliederungszuschuss.
+    rechtsnorm: § 88 Eingliederungszuschuss SGB III
+    zielgruppen:
+    - Erwerbsalter
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Eingliederungszuschuss für Behinderte.
+    rechtsnorm: § 90 Eingliederungszuschuss für Menschen mit Behinderungen und schwerbehinderte
+      Menschen SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Aktive Arbeitsförderung, Gründungszuschuss.
+    rechtsnorm: § 93 Gründungszuschuss SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Kurzarbeitergeld.
+    rechtsnorm: § 95 Anspruch SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Saison-Kurzarbeitergeld.
+    rechtsnorm: § 101 Saison- Kurzarbeitergeld SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Zuschuss-Wintergeld.
+    rechtsnorm: § 102 Abs. 2 Ergänzende Leistungen SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Mehraufwands-Wintergeld.
+    rechtsnorm: § 102 Abs. 3 Ergänzende Leistungen SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Wintergeld. Erstattung der AG-Sozialversicherungsbeiträge.
+    rechtsnorm: § 102 Abs. 4 Ergänzende Leistungen SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Heimarbeiter-Kurzarbeitergeld.
+    rechtsnorm: § 103 Kurzarbeitergeld für Heimarbeiterinnen und Heimarbeiter SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Kurzarbeitergeld. Teilerstattung der 
+      AG-Sozialversicherungsbeiträge bei Weiterbildung und Kurzarbeit.
+    rechtsnorm: § 106a Erstattungen bei beruflicher Weiterbildung während Kurzarbeit
+      SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Bildung & Qualifizierung
+  - leistung: Aktive Arbeitsförderung, Hälftige Bezuschussung von Transfermaßnahmen.
+    rechtsnorm: § 110 Transfermaßnahmen SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Transferkurzarbeitergeld.
+    rechtsnorm: § 111 Transferkurzarbeitergeld SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: 'Aktive Arbeitsförderung, Transferkurzarbeitergeld: hälftige Förderung
+      von Weiterbildungsmaßnahmen.'
+    rechtsnorm: § 111a Förderung der beruflichen Weiterbildung bei Transferkurzarbeitergeld
+      SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, diverse allgemeine Leistungen der Behindertenteilhabe.
+    rechtsnorm: § 113 Abs. 1 S. 1 Leistungen zur Teilhabe SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Aktive Arbeitsförderung, diverse besondere Leistungen der Behindertenteilhabe.
+    rechtsnorm: § 113 Abs. 1 S. 2 Leistungen zur Teilhabe SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Aktive Arbeitsförderung, Übergangsgeld mit Vorbeschäftigungszeit.
+    rechtsnorm: § 119 Übergangsgeld SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Übergangsgeld ohne Vorbeschäftigungszeit.
+    rechtsnorm: § 121 Übergangsgeld ohne Vorbeschäftigungszeit SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Aktive Arbeitsförderung, Ausbildungsgeld bei Berufsausbildung oder vorbereitenden
+      Maßnahmen.
+    rechtsnorm: § 122 Abs. 1 S. 1 Ausbildungsgeld SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Ausbildungsgeld für innerbetriebliche Qualifizierung.
+    rechtsnorm: § 122 Abs. 1 S. 2 Ausbildungsgeld SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Ausbildungsgeld für Behindertenwerkstattmitarbeiter u.Ä.
+    rechtsnorm: § 122 Abs. 1 S. 3 Ausbildungsgeld SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Aktive Arbeitsförderung, Kostenerstattung für behindertengerechte Unterkunft
+      und Verpflegung im Zusammenhang mit Maßnahmen der Arbeitsförderung.
+    rechtsnorm: § 128 Kosten für Unterkunft und Verpflegung bei anderweitiger auswärtiger
+      Unterbringung SGB III
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Gesundheit, Pflege & Teilhabe
+  Arbeitslosengeld und Insolvenzgeld:
+  - leistung: Arbeitslosengeld, Arbeitslosengeld bei Arbeitslosigkeit.
+    rechtsnorm: § 136 Abs. 1 S. 1 Anspruch auf Arbeitslosengeld SGB IIII
+    zielgruppen:
+    - Erwerbsalter
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Arbeitslosengeld, Arbeitslosengeld bei Weiterbildung.
+    rechtsnorm: § 136 Abs. 1 S. 2 Anspruch auf Arbeitslosengeld SGB IIII
+    zielgruppen:
+    - Erwerbsalter
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Arbeitslosengeld, überbrückendes Arbeitslosengeld bei gesundheitlichen
+      Einschränkungen.
+    rechtsnorm: § 145 Minderung der Leistungsfähigkeit SGB III
+    zielgruppen:
+    - Erwerbsalter
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Arbeitslosengeld, Teilarbeitslosengeld.
+    rechtsnorm: § 162 Teilarbeitslosengeld SGB III
+    zielgruppen:
+    - Erwerbsalter
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Insolvenzgeld.
+    rechtsnorm: § 165 Anspruch SGB III
+    zielgruppen:
+    - Erwerbsalter
+    themenfelder:
+    - Arbeit & Grundsicherung
+SGB V:
+  Leistungen der gesetzlichen Krankenversicherungen:
+  - leistung: Leistungen hinsichtlich der Versicherungsbedingungen, kostenfreie Mitversicherung
+      von Lebenspartner/Kindern.
+    rechtsnorm: § 10 Familienversicherung SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Kostenübernahme bei alternativlosen nicht-EWR Auslandsbehandlungen.
+    rechtsnorm: § 18 Kostenübernahme bei Behandlung außerhalb des Geltungsbereichs
+      des Vertrages zur Gründung der Europäischen Gemeinschaft und des Abkommens über
+      den Europäischen Wirtschaftsraum SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen der Primären Prävention und Gesundheitsförderung, allgemeine
+      Präventions- und Gesundheitsförderungsmaßnahmen.
+    rechtsnorm: § 20 Primäre Prävention und Gesundheitsförderung SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen der Primären Prävention und Gesundheitsförderung, Leistungen
+      zur Gesundheitsförderung und Prävention in Lebenswelten.
+    rechtsnorm: § 20a Leistungen zur Gesundheitsförderung und Prävention in Lebenswelten
+      SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen der Primären Prävention und Gesundheitsförderung, betriebliche
+      Gesundheitsförderung.
+    rechtsnorm: § 20b Betriebliche Gesundheitsförderung SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen der Primären Prävention und Gesundheitsförderung, Präventionsmaßnahmen
+      arbeitsbedingter Gesundheitsgefahren durch Krankenkassen.
+    rechtsnorm: § 20c Prävention arbeitsbedingter Gesundheitsgefahren SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen der Primären Prävention und Gesundheitsförderung, Förderung
+      von Selbsthilfegruppierungen.
+    rechtsnorm: § 20h Förderung der Selbsthilfe SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen der Primären Prävention und Gesundheitsförderung, Leistungen
+      zur Verhütung übertragbarer Krankheiten.
+    rechtsnorm: § 20i Leistungen zur Verhütung übertragbarer Krankheiten, Verordnungsermächtigung
+      SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen der Primären Prävention und Gesundheitsförderung, Beratungsleistungen
+      zur HIV- Präexpositionsprophylaxe.
+    rechtsnorm: § 20j Abs. 1 S.1 Präexpositionsprophylaxe SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen der Primären Prävention und Gesundheitsförderung, Untersuchungsleistungen
+      zur HIV- Präexpositionsprophylaxe.
+    rechtsnorm: § 20j Abs. 1 S.2 Präexpositionsprophylaxe SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen der Primären Prävention und Gesundheitsförderung, Gruppenprophylaxe
+      für Minderjährige (Zahnarztbesuche in Schulen und Kindergärten).
+    rechtsnorm: § 21 Verhütung von Zahnerkrankungen (Gruppenprophylaxe) SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen der Primären Prävention und Gesundheitsförderung, spezifische
+      Programme zur Verhütung von Zahnerkrankung für Kinder mit besonders hohem Risiko.
+    rechtsnorm: § 21 Verhütung von Zahnerkrankungen (Gruppenprophylaxe) SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen der Primären Prävention und Gesundheitsförderung, halbjährliche
+      Individualprophylaxe für Minderjährige.
+    rechtsnorm: § 22 Abs. 1 Verhütung von Zahnerkrankungen (Individualprophylaxe)
+      SGB V
+    zielgruppen:
+    - Jugendliche
+    - Kinder
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen der Primären Prävention und Gesundheitsförderung, Fissurenversiegelung
+      der Molaren.
+    rechtsnorm: § 22 Abs. 2 Verhütung von Zahnerkrankungen (Individualprophylaxe)
+      SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen der Primären Prävention und Gesundheitsförderung, Individualprophylaxe
+      für Pflegebedürftige.
+    rechtsnorm: § 22a Verhütung von Zahnerkrankungen bei Pflegebedürftigen und Menschen
+      mit Behinderungen SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen der Primären Prävention und Gesundheitsförderung, Individualprophylaxe
+      für Behinderte.
+    rechtsnorm: § 22a Verhütung von Zahnerkrankungen bei Pflegebedürftigen und Menschen
+      mit Behinderungen SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen der Primären Prävention und Gesundheitsförderung, reguläre
+      medizinische Vorsorgeleistungen.
+    rechtsnorm: § 23 Abs. 1 Medizinische Vorsorgeleistungen SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen der Primären Prävention und Gesundheitsförderung, ambulante
+      Vorsorgeleistungen in anerkannten Kurorten.
+    rechtsnorm: § 23 Abs. 2 Medizinische Vorsorgeleistungen SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen der Primären Prävention und Gesundheitsförderung, Behandlung,
+      Unterkunft und Verpflegung in einer Vorsorgeeinrichtung.
+    rechtsnorm: § 23 Abs. 4 Medizinische Vorsorgeleistungen SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen der Primären Prävention und Gesundheitsförderung, Mutter,
+      Vater- Kind Leistungen.
+    rechtsnorm: § 24 Medizinische Vorsorge für Mütter und Väter SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: 'Leistungen der Primären Prävention und Gesundheitsförderung, Empfängnisverhütung:
+      Beratungsleistungen.'
+    rechtsnorm: § 24a Abs. 1 Empfängnisverhütung SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: 'Leistungen der Primären Prävention und Gesundheitsförderung, Empfängnisverhütung:
+      Untersuchungsleistungen.'
+    rechtsnorm: § 24a Abs. 2 Empfängnisverhütung SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: 'Leistungen der Primären Prävention und Gesundheitsförderung, Empfängnisverhütung:
+      Verordnung von empfängnisregelnden Mitteln.'
+    rechtsnorm: § 24a Abs. 3 Empfängnisverhütung SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: 'Leistungen der Primären Prävention und Gesundheitsförderung, Empfängnisverhütung:
+      Versorgung mit empfängnisverhütenden Mitteln für Versicherte unter 22.'
+    rechtsnorm: § 24a Empfängnisverhütung SGB V
+    zielgruppen:
+    - Jugendliche
+    - Kinder
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: 'Leistungen der Primären Prävention und Gesundheitsförderung, Empfängnisverhütung:
+      Versorgung mit Notfallkontrazeptiva für Versicherte unter 22.'
+    rechtsnorm: § 24a Empfängnisverhütung SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: 'Leistungen bei Schwangerschaft und Mutterschaft, Abtreibung: Beratungsleistungen.'
+    rechtsnorm: § 24b Schwangerschaftsabbruch und Sterilisation SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: 'Leistungen bei Schwangerschaft und Mutterschaft, Abtreibung: Vor- und
+      Nachbereitungen, Komplikationsprävention und –behandlung.'
+    rechtsnorm: § 24b Schwangerschaftsabbruch und Sterilisation SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen der Primären Prävention und Gesundheitsförderung, durch Krankheit
+      erforderliche Sterilisation.
+    rechtsnorm: § 24b Schwangerschaftsabbruch und Sterilisation SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen bei Schwangerschaft und Mutterschaft, Untersuchungen zur
+      Schwangerschaftsfeststellung und Schwangerenvorsorge.
+    rechtsnorm: § 24d Ärztliche Betreuung und Hebammenhilfe SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen bei Schwangerschaft und Mutterschaft, Wochenbettbetreuung.
+    rechtsnorm: § 24d Ärztliche Betreuung und Hebammenhilfe SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen bei Schwangerschaft und Mutterschaft, Beratung zu Mundgesundheit,
+      Hygiene und Kariesrisiko nach Entbindung.
+    rechtsnorm: § 24d Ärztliche Betreuung und Hebammenhilfe SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen bei Schwangerschaft und Mutterschaft, Ärztliche Betreuung
+      und Hebammenhilfe vor, während und nach der Schwangerschaft.
+    rechtsnorm: § 24d Ärztliche Betreuung und Hebammenhilfe SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen bei Schwangerschaft und Mutterschaft, Versorgung mit Arznei-
+      , Verband- , Heil- , Hilfsmitteln und digitalen Gesundheitsanwendungen.
+    rechtsnorm: § 24e Versorgung mit Arznei- , Verband- , Heil- und Hilfsmitteln SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen bei Schwangerschaft und Mutterschaft, Ambulante oder stationäre
+      Entbindungsleistungen.
+    rechtsnorm: § 24f Entbindung SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen bei Schwangerschaft und Mutterschaft, Häusliche Pflege im
+      Zusammenhang mit Schwangerschaft oder Entbindung.
+    rechtsnorm: § 24g Häusliche Pflege SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen bei Schwangerschaft und Mutterschaft, Haushaltshilfe bei
+      Schwangerschaft oder Entbindung.
+    rechtsnorm: § 24h Haushaltshilfe SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen zur Erfassung von gesundheitlichen Risiken und Früherkennung
+      von Krankheiten, präventionsorientierte Gesundheitsberatung hinsichtlich bevölkerungsmedizinisch
+      relevanter Krankheiten.
+    rechtsnorm: § 25 Gesundheitsuntersuchungen SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen zur Erfassung von gesundheitlichen Risiken und Früherkennung
+      von Krankheiten, Krebsfrüherkennung.
+    rechtsnorm: § 25a Organisierte Früherkennungsprogramme SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen zur Erfassung von gesundheitlichen Risiken und Früherkennung
+      von Krankheiten, individuelle datengestützte Gesundheitsberatung.
+    rechtsnorm: § 25b Datengestützte Erkennung individueller Gesundheitsrisiken durch
+      die Kranken- und Pflegekassen SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen zur Erfassung von gesundheitlichen Risiken und Früherkennung
+      von Krankheiten, Gesundheitsuntersuchungen für Kinder und Jugendliche mit präventivem
+      Charakter.
+    rechtsnorm: § 26 Gesundheitsuntersuchungen für Kinder und Jugendliche SGB V
+    zielgruppen:
+    - Kinder
+    - Jugendliche
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen bei Krankheit, Krankenbehandlung.
+    rechtsnorm: § 27 Krankenbehandlung SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Kryokonservierung von Ei- oder Samenzellen oder von
+      Keimzellgewebe.
+    rechtsnorm: § 27a Abs. 4 Künstliche Befruchtung SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, künstliche Befruchtung.
+    rechtsnorm: § 27a Künstliche Befruchtung SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Anspruch auf Zweitmeinung bei potentiell riskanten
+      planbaren Eingriffen.
+    rechtsnorm: § 27b Zweitmeinung SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, ärztliche Behandlung.
+    rechtsnorm: § 28 Ärztliche und zahnärztliche Behandlung SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, zahnärztliche Behandlung.
+    rechtsnorm: § 28 Ärztliche und zahnärztliche Behandlung SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, psychotherapeutische Behandlung.
+    rechtsnorm: § 28 Ärztliche und zahnärztliche Behandlung SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, kieferorthopädische Behandlung.
+    rechtsnorm: § 29 Kieferorthopädische Behandlung SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, einmalige Versorgung mit Arzneimitteln.
+    rechtsnorm: § 31 Abs. 1b Arznei- und Verbandmittel, Verordnungsermächtigung SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Versorgung mit medizinischem Cannabis.
+    rechtsnorm: § 31 Abs. 6 Arznei- und Verbandmittel, Verordnungsermächtigung SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Versorgung mit Verbandmitteln.
+    rechtsnorm: § 31 Arznei- und Verbandmittel, Verordnungsermächtigung SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Versorgung mit Harn- und Blutteststreifen.
+    rechtsnorm: § 31 Arznei- und Verbandmittel, Verordnungsermächtigung SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Anspruch auf einen Medikationsplan.
+    rechtsnorm: § 31a Medikationsplan SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Versorgung mit telemedizinischen Heilmitteln.
+    rechtsnorm: § 32 Abs. 1 S. 2 Heilmittel SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Anspruch auf Hörhilfen.
+    rechtsnorm: § 33 Abs. 1 S. 1 Hilfsmittel SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Anspruch auf Körperersatzstücke.
+    rechtsnorm: § 33 Abs. 1 S. 1 Hilfsmittel SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Anspruch auf orthopädische und andere Hilfsmittel.
+    rechtsnorm: § 33 Abs. 1 S. 1 Hilfsmittel SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Anspruch auf Sehhilfen.
+    rechtsnorm: § 33 Abs. 2 Hilfsmittel SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Versorgung mit digitalen Gesundheitsprodukten.
+    rechtsnorm: § 33a Digitale Gesundheitsanwendungen SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Einmalige Versorgung mit nicht verschreibungspflichtigen
+      Tabakentwöhnungsmitteln.
+    rechtsnorm: § 34 Abs. (2) Ausgeschlossene Arznei- , Heil- und Hilfsmittel SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Versorgung 0 bis 11-Jähriger mit nicht verschreibungspflichtigen
+      Arzneimitteln.
+    rechtsnorm: § 34 Abs. 1 Ausgeschlossene Arznei- , Heil- und Hilfsmittel SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Versorgung entwicklungsgestörter 11 bis 17-Jähriger
+      mit nicht verschreibungspflichtigen Arzneimitteln.
+    rechtsnorm: § 34 Abs. 1 Ausgeschlossene Arznei- , Heil- und Hilfsmittel SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, allgemeine ambulante Palliativversorgung.
+    rechtsnorm: § 37 Abs. 2b Häusliche Krankenpflege SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, häusliche Krankenpflege.
+    rechtsnorm: § 37 Häusliche Krankenpflege SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Soziotherapie.
+    rechtsnorm: § 37a Soziotherapie SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, spezialisierte ambulante Palliativversorgung.
+    rechtsnorm: § 37b Spezialisierte ambulante Palliativversorgung SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, außerklinische Intensivpflege.
+    rechtsnorm: § 37c Außerklinische Intensivpflege SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Haushaltshilfe.
+    rechtsnorm: § 38 Haushaltshilfe SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Krankenhausbehandlung.
+    rechtsnorm: § 39 Krankenhausbehandlung SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Zuschuss zu stationären und ambulanten Hospizleistungen.
+    rechtsnorm: § 39a Stationäre und ambulante Hospizleistungen SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Hospiz- und Palliativberatung durch die Krankenkassen.
+    rechtsnorm: § 39b Hospiz- und Palliativberatung durch die Krankenkassen SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Kurzzeitpflege bei fehlender Pflegebedürftigkeit.
+    rechtsnorm: § 39c Kurzzeitpflege bei fehlender Pflegebedürftigkeit SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Übergangspflege im Krankenhaus.
+    rechtsnorm: § 39e Übergangspflege im Krankenhaus SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, ambulante Rehabilitationsleistungen durch die Krankenkasse.
+    rechtsnorm: § 40 Abs. 1 Leistungen zur medizinischen Rehabilitation SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, stationäre Rehabilitationsleistungen durch die Krankenkasse.
+    rechtsnorm: § 40 Abs. 2 Leistungen zur medizinischen Rehabilitation SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, medizinische Mutter, Vater- Kind Rehabilitation.
+    rechtsnorm: § 41 Medizinische Rehabilitation für Mütter und Väter SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Belastungserprobung zum Arbeitswiedereintritt.
+    rechtsnorm: § 42 Belastungserprobung und Arbeitstherapie SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Arbeitstherapie.
+    rechtsnorm: § 42 Belastungserprobung und Arbeitstherapie SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, ergänzende Rehabilitationsleistungen für Behinderte
+      in Trägerschaft der Krankenkassen.
+    rechtsnorm: § 43 Abs. 1 S. 1 Ergänzende Leistungen zur Rehabilitation SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Patientenschulungsmaßnahmen in Trägerschaft der Krankenkassen.
+    rechtsnorm: § 43 Abs. 1 S. 2 Ergänzende Leistungen zur Rehabilitation SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Sozialmedizinische Nachsorgemaßnahmen für chronisch
+      kranke oder schwerstkranke 0 bis 13 Jährige.
+    rechtsnorm: § 43 Abs. 2 Ergänzende Leistungen zur Rehabilitation SGB V
+    zielgruppen:
+    - Kinder
+    - Jugendliche
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankenbehandlung, Sozialmedizinische Nachsorgemaßnahmen für chronisch
+      kranke oder schwerstkranke 0 bis 18 Jährige (in besonders schweren Fällen).
+    rechtsnorm: § 43 Abs. 2 Ergänzende Leistungen zur Rehabilitation SGB V
+    zielgruppen:
+    - Jugendliche
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: 'Krankenbehandlung, nichtärztliche sozialpädiatrische Leistungen für
+      Kinder: psychologische Leistungen.'
+    rechtsnorm: § 43a Abs. 1 Nichtärztliche sozialpädiatrische Leistungen SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: 'Krankenbehandlung, nichtärztliche sozialpädiatrische Leistungen für
+      Kinder: heilpädagogische Leistungen.'
+    rechtsnorm: § 43a Abs. 1 Nichtärztliche sozialpädiatrische Leistungen SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: 'Krankenbehandlung, nichtärztliche sozialpädiatrische Leistungen für
+      Kinder: psychosoziale Leistungen.'
+    rechtsnorm: § 43a Abs. 1 Nichtärztliche sozialpädiatrische Leistungen SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: 'Krankenbehandlung, nichtärztliche sozialpädiatrische Leistungen für
+      Kinder: psychiatrische Behandlung.'
+    rechtsnorm: § 43a Abs. 2 Nichtärztliche sozialpädiatrische Leistungen SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: 'Krankenbehandlung, nichtärztliche Leistungen für Erwachsene mit geistiger
+      Behinderung oder schweren Mehrfachbehinderungen: psychologische Leistungen.'
+    rechtsnorm: § 43b Nichtärztliche Leistungen für Erwachsene mit geistiger Behinderung
+      oder schweren Mehrfachbehinderungen SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: 'Krankenbehandlung, nichtärztliche Leistungen für Erwachsene mit geistiger
+      Behinderung oder schweren Mehrfachbehinderungen: therapeutische Leistungen.'
+    rechtsnorm: § 43b Nichtärztliche Leistungen für Erwachsene mit geistiger Behinderung
+      oder schweren Mehrfachbehinderungen SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: 'Krankenbehandlung, nichtärztliche Leistungen für Erwachsene mit geistiger
+      Behinderung oder schweren Mehrfachbehinderungen: psychosoziale Leistungen.'
+    rechtsnorm: § 43b Nichtärztliche Leistungen für Erwachsene mit geistiger Behinderung
+      oder schweren Mehrfachbehinderungen SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: 'Krankenbehandlung, nichtärztliche Leistungen für Erwachsene mit geistiger
+      Behinderung oder schweren Mehrfachbehinderungen: Behandlungsplan samt Leistungskoordination.'
+    rechtsnorm: § 43b Nichtärztliche Leistungen für Erwachsene mit geistiger Behinderung
+      oder schweren Mehrfachbehinderungen SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen bei Krankheit, Krankengeld bei eigener Krankheit.
+    rechtsnorm: § 44 Krankengeld SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen bei Krankheit, Krankengeld bei Spende von Organen, Geweben
+      oder Blut zur Separation von Blutbestandteilen.
+    rechtsnorm: § 44a Krankengeld bei Spende von Organen, Geweben oder Blut zur Separation
+      von Blutstammzellen oder anderen Blutbestandteilen SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen bei Krankheit, Krankengeld für eine bei stationärer Behandlung
+      mitaufgenommene Begleitperson aus dem engsten persönlichen Umfeld.
+    rechtsnorm: § 44b Krankengeld für eine bei stationärer Behandlung mitaufgenommene
+      Begleitperson aus dem engsten persönlichen Umfeld SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen bei Krankheit, Krankengeld bei Erkrankung des Kindes.
+    rechtsnorm: § 45 Krankengeld bei Erkrankung des Kindes SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen bei Krankheit, Krankengeld statt Arbeitslosengeld.
+    rechtsnorm: § 47b Abs. 1 Höhe und Berechnung des Krankengeldes bei Beziehern von
+      Arbeitslosengeld, Unterhaltsgeld, Kurzarbeitergeld oder Qualifizierungsgeld
+      SGB V
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen bei Krankheit, Krankengeld statt Unterhaltsgeld.
+    rechtsnorm: § 47b Abs. 1 Höhe und Berechnung des Krankengeldes bei Beziehern von
+      Arbeitslosengeld, Unterhaltsgeld, Kurzarbeitergeld oder Qualifizierungsgeld
+      SGB V
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen bei Krankheit, Krankengeld statt Kurzarbeitergeld.
+    rechtsnorm: § 47b Abs. 2 Höhe und Berechnung des Krankengeldes bei Beziehern von
+      Arbeitslosengeld, Unterhaltsgeld, Kurzarbeitergeld oder Qualifizierungsgeld
+      SGB V
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen bei Krankheit, Krankengeld statt Qualifizierungsgeld.
+    rechtsnorm: § 47b Abs. 2 Höhe und Berechnung des Krankengeldes bei Beziehern von
+      Arbeitslosengeld, Unterhaltsgeld, Kurzarbeitergeld oder Qualifizierungsgeld
+      SGB V
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen hinsichtlich der Versicherungsbedingungen, Anspruch auf jährlich
+      geltende Wahltarife.
+    rechtsnorm: § 53 Wahltarife SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen für Zahnersatz, Festzuschüsse zu Zahnersatz einschließlich
+      Zahnkronen und Suprakonstruktionen.
+    rechtsnorm: § 55 Abs. 1 Leistungsanspruch SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen für Zahnersatz, erhöhte Festzuschüsse zu Zahnersatz bei regelmäßiger
+      Inanspruchnahme von Untersuchungen.
+    rechtsnorm: § 55 Abs. 1 Leistungsanspruch SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen für Zahnersatz, erhöhte Festzuschüsse zu Zahnersatz bei unzumutbarer
+      Belastung.
+    rechtsnorm: § 55 Abs. 2 Leistungsanspruch SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen für Transport, Verlegungsfahrten zwischen Krankenhäusern.
+    rechtsnorm: § 60 Abs. 2 S. 1 Fahrkosten SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen für Transport, Rettungsfahrten zum Krankenhaus.
+    rechtsnorm: § 60 Abs. 2 S. 2 Fahrkosten SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen für Transport, Fahrten zur Vermeidung vollstationärer Versorgung.
+    rechtsnorm: § 60 Abs. 2 S. 2 Fahrkosten SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen für Transport, Krankentransport.
+    rechtsnorm: § 60 Abs. 2 S. 3 Fahrkosten SGB V
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+SGB VI:
+  Gesundheit und Rehabilitation:
+  - leistung: Medizinische Rehabilitation für Erwerbstätigkeit, Medizinische Leistungen
+      durch Rehabilitationseinrichtungen.
+    rechtsnorm: § 15 Leistungen zur medizinischen Rehabilitation SGB VI
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Medizinische Rehabilitation, Nachsorgeleistungen und Rehabilitation
+      für Kinder von Versicherten oder Rentenbeziehern, Mitaufnahme einer Begleitperson
+      oder Familienangehörigen.
+    rechtsnorm: § 15a Leistungen zur Kinderrehabilitation SGB VI
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+    - Alter & Rente / Versorgung
+  Rentenversicherung:
+  - leistung: Teilhabe am Arbeitsleben, im Eingangsverfahren und im Berufsbildungsbereich
+      der Werkstätten für behinderte Menschen.
+    rechtsnorm: § 16 Leistungen zur Teilhabe am Arbeitsleben SGB VI
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Übergangsgeld, finanzielle Unterstützung (Übergangsgeld) während der
+      Inanspruchnahme von Leistungen zur Prävention, medizinischen Rehabilitation,
+      Teilhabe am Arbeitsleben, Nachsorge oder sonstigen Leistungen zur Teilhabe,
+      falls diese sonstige Tätigkeiten ausschließen.
+    rechtsnorm: § 20 Anspruch SGB VI
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen zur Teilhabe, Ergänzung des Übergangsgeldes.
+    rechtsnorm: § 28 Ergänzende Leistungen SGB VI
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen zur Teilhabe, Eingliederung von Versicherten in das Erwerbsleben.
+    rechtsnorm: § 31 Sonstige Leistungen SGB VI
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Rente wegen Alters, Regelaltersrente, wenn entsprechende Vorausetzungen
+      erfüllt sind.
+    rechtsnorm: § 35 Regelaltersrente SGB VI, § 235 Regelaltersrente SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Rente für langjährig Versicherte, Altersrente für langjährig Versicherte.
+    rechtsnorm: § 36 Altersrente für langjährig Versicherte SGB VI , § 236 Altersrente
+      für langjährig Versicherte SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Altersrente für schwerbehinderte Menschen, Anspruch auf Altersrente.
+    rechtsnorm: § 37 Altersrente für schwerbehinderte Menschen SGB VI, § 236a Altersrente
+      für schwerbehinderte Menschen SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Altersrente, Anspruch auf Altersrente für besonders langjährig Versicherte.
+    rechtsnorm: § 38 Altersrente für besonders langjährig Versicherte SGB VI, § 236b
+      Altersrente für besonders langjährig Versicherte SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Altersrente für langjährig unter Tage beschäftigte Bergleute, Anspruch
+      auf Altersrente für langjährig unter Tage beschäftigte Bergleute.
+    rechtsnorm: § 40 Altersrente für langjährig unter Tage beschäftigte Bergleute
+      SGB VI, § 238 Altersrente für langjährig unter Tage beschäftigte Bergleute SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Altersrente, Rente wegen Alters in voller Höhe oder als Teilrente in
+      Höhe von mindestens 10 Prozent der Vollrente.
+    rechtsnorm: § 42 Vollrente und Teilrente SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Rente wegen teilweiser oder voller Erwerbsminderung, finanzielle Unterstützung
+      für Versicherte, die aufgrund von Krankheit oder Behinderung teilweise oder
+      voll erwerbsgemindert sind und bestimmte Voraussetzungen erfüllen.
+    rechtsnorm: § 43 Rente wegen Erwerbsminderung SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Rente für Bergleute, im Fall von Krankheit oder Behinderung nicht mehr
+      in der Lage, ihre bisherige Arbeit auszuüben, oder das 50. Lebensjahr vollendet
+      haben und eine wirtschaftlich gleichwertige Beschäftigung nicht mehr ausüben
+      können.
+    rechtsnorm: § 45 Rente für Bergleute SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Witwenrente und Witwerrente, Unterstützung für Witwen oder Witwer nach
+      dem Tod des versicherten Ehegatten.
+    rechtsnorm: § 46 Witwenrente und Witwerrente SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Erziehungsrente, Rente für geschiedene oder verwitwete Ehegatten, die
+      ein Kind erziehen und bestimmte weitere Bedingungen erfüllen.
+    rechtsnorm: § 47 Erziehungsrente SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Halb- oder Vollwaisenrente, Finanzielle Unterstützung für Kinder nach
+      dem Tod eines oder beider Elternteile.
+    rechtsnorm: § 48 Waisenrente SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Rentenleistung bei Verschollenheit, Auszahlung, wenn Ehegatten, geschiedene
+      Ehegatten oder Elternteile verschollen sind und die Umstände ihren Tod wahrscheinlich
+      machen.
+    rechtsnorm: § 49 Renten wegen Todes bei Verschollenheit SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Kindererziehungzeiten, Erziehung eines Kindes in dessen ersten drei
+      Lebensjahren, die angerechnet werden, um die spätere Rente aufzubessern.
+    rechtsnorm: § 56 Kindererziehungszeiten SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Zuschläge, durchgeführtes Rentensplitting wird beim Versicherten durch
+      Zuschläge oder Abschläge an Entgeltpunkten berücksichtigt
+    rechtsnorm: § 76c Zuschläge oder Abschläge beim Rentensplitting SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Zuschläge, Ermittlung von Zuschlägen an Entgeltpunkten aus Beiträgen
+      nach Beginn einer Rente wegen Alters.
+    rechtsnorm: § 76d Zuschläge an Entgeltpunkten aus Beiträgen nach Beginn einer
+      Rente wegen Alters SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Zuschläge, Zuschläge an Entgeltpunkten betragen für jeden Kalendermonat
+      der besonderen Auslandsverwendung 0,18 Entgeltpunkte, wenn diese Zeiten jeweils
+      ununterbrochen mindestens 30 Tage gedauert haben.
+    rechtsnorm: § 76e Zuschläge an Entgeltpunkten für Zeiten einer besonderen Auslandsverwendung
+      SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Zuschläge, Ermittlung von Zuschlägen an Entgeltpunkten aus Beiträgen
+      für beitragspflichtige Einnahmen von nachversicherten Soldaten auf Zeit.
+    rechtsnorm: § 76f Zuschläge an Entgeltpunkten für nachversicherte Soldaten auf
+      Zeit SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Zuschläge, Ermittlung bei mindestens 33 Jahren mit Grundrentenzeiten
+      und sich aus den Kalendermonaten mit Grundrentenbewertungszeiten ein Durchschnittswert
+      an Entgeltpunkten ergibt, der unter dem nach Absatz 4 maßgebenden Höchstwert
+      liegt.
+    rechtsnorm: § 76g Zuschlag an Entgeltpunkten für langjährige Versicherung SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Waisenrente, finanzielle Unterstützung für Kinder, deren Eltern verstorben
+      sind.
+    rechtsnorm: § 78 Zuschlag bei Waisenrenten SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Witwenrente und Witwerrente, Zuschlag an persönlichen Entgeltpunkten,
+      der sich nach der Dauer der Erziehung von Kindern bis zur Vollendung ihres dritten
+      Lebensjahres richtet.
+    rechtsnorm: § 78a Zuschlag bei Witwenrenten und Witwerrenten SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Rente für Bergleute, zusätzliche Entgeltpunkte für die Rentenversicherung,
+      basierend auf der Anzahl der Jahre, die unter Tage gearbeitet wurden.
+    rechtsnorm: § 85 Entgeltpunkte für ständige Arbeiten unter Tage SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Gesundheits- und Pflegeleistungen, Zuschuss zu den Aufwendungen für
+      die Krankenversicherung für Rentenbezieher, die freiwillig in der gesetzlichen
+      Krankenversicherung oder bei einem Krankenversicherungsunternehmen versichert
+      sind.
+    rechtsnorm: § 106 Zuschuss zur Krankenversicherung SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Witwenrente und Witwerrente, finanzielle Unterstützung für Witwen oder
+      Witwer. Bei einer Wiederheirat wird eine Abfindung in Höhe des 24-fachen Monatsbetrags
+      der Rente ausgezahlt.
+    rechtsnorm: § 107 Rentenabfindung SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Altersrente, finanzielle Unterstützung für Versicherte, die das 60.
+      Lebensjahr vollendet haben und bestimmte Voraussetzungen erfüllen.
+    rechtsnorm: § 237 Altersrente wegen Arbeitslosigkeit oder nach Altersteilzeitarbeit
+      SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Altersrente für Frauen, finanzielle Unterstützung für Frauen.
+    rechtsnorm: § 237a Altersrente für Frauen SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Knappschaftsausgleichsleistung, Übergangszahlung für ältere Bergleute,
+      die nach dem Ausscheiden aus dem aktiven Bergbau und vor dem regulären Renteneintrittsalter
+      geleistet wird.
+    rechtsnorm: § 239 Knappschaftsausgleichsleistung SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Rente wegen teilweiser Erwerbsminderung, finanzielle Unterstützung für
+      Versicherte, die aufgrund von Krankheit oder Behinderung ihre Erwerbsfähigkeit
+      eingeschränkt haben.
+    rechtsnorm: § 240 Rente wegen teilweiser Erwerbsminderung bei Berufsunfähigkeit
+      SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Rente wegen Erwerbsminderung, Voraussetzungen für eine Rente wegen Erwerbsminderung.
+    rechtsnorm: § 241 Rente wegen Erwerbsminderung SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Rente für Bergleute, finanzielle Unterstützung für Bergleute, die aufgrund
+      ihrer Arbeit im Bergbau eine verminderte Berufsfähigkeit haben oder das 50.
+      Lebensjahr vollendet haben.
+    rechtsnorm: § 242 Rente für Bergleute SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Mindestentgeltpunkte, Aufstockung der Entgeltpunkte bei sehr geringer
+      Rente.
+    rechtsnorm: § 262 Mindestentgeltpunkte bei geringem Arbeitsentgelt SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Familienleistungen, monatliche finanzielle Unterstützung, die das 2,5-Fache
+      des für die Berechnung von Renten jeweils maßgebenden aktuellen Rentenwerts
+      beträgt.
+    rechtsnorm: § 295 Höhe der Leistung SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Regelaltersrente, Altersrente für schwerbehinderte Menschen, Berufsunfähigkeitsrente,
+      Erwerbsunfähigkeitsrente.
+    rechtsnorm: § 302 Anspruch auf Altersrente in Sonderfällen SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Invalidenrente, Unterstützung für Personen, die aufgrund von Erwerbsunfähigkeit,
+      Berufsunfähigkeit oder voller bzw. teilweiser Erwerbsminderung nicht mehr in
+      der Lage sind, ihren Lebensunterhalt selbst zu bestreiten.
+    rechtsnorm: § 302a Renten wegen verminderter Erwerbsfähigkeit und Bergmannsvollrenten
+      SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Rente wegen Berufsunfähigkeit, finanzielle Unterstützung für Personen,
+      die aufgrund von Berufsunfähigkeit, Erwerbsunfähigkeit oder Erwerbsminderung
+      nicht mehr in der Lage sind, ihren Lebensunterhalt selbst zu bestreiten.
+    rechtsnorm: § 302b Renten wegen verminderter Erwerbsfähigkeit SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Witwerrente, Witwerrente für Ehegatten, deren Partner vor dem 1. Januar
+      1986 gestorben ist oder die bis zum 31. Dezember 1988 eine wirksame Erklärung
+      über die weitere Anwendung des bis zum 31. Dezember 1985 geltenden Hinterbliebenenrechts
+      abgegeben haben.
+    rechtsnorm: § 303 Witwerrente SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Witwenrente und Witwerrente, finanzielle Unterstützung für Witwen oder
+      Witwer, die berufsunfähig oder erwerbsunfähig sind.
+    rechtsnorm: § 303a Große Witwenrente und große Witwerrente wegen Berufsunfähigkeit
+      oder Erwerbsunfähigkeit SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Waisenrente, Waisenrente für Personen über 25 Jahre, die aufgrund von
+      körperlichen oder geistigen Gebrechen nicht in der Lage sind, sich selbst zu
+      versorgen.
+    rechtsnorm: § 304 Waisenrente SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Zuschlag an Entgeltpunkten, Zuschläge an Personen, die Kinder erzogen
+      haben.
+    rechtsnorm: § 307d Zuschlag an persönlichen Entgeltpunkten für Kindererziehung
+      SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Zuschlag an Entgeltpunkten, im Fall von mindestens 33 Jahren mit Grundrentenzeiten
+      und einem Durchschnittswert an Entgeltpunkten, der unter dem Höchstwert liegt.
+    rechtsnorm: § 307e Zuschlag an Entgeltpunkten für langjährige Versicherung bei
+      Rentenbeginn in den Jahren 1992 bis 2020 SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Zuschlag an Entgeltpunkten, falls der Rentenbeginn vor dem 1. Januar
+      1992 lag und bestimmte Durchschnittswerte an Entgeltpunkten nicht überschritten
+      werden.
+    rechtsnorm: § 307f Zuschlag an Entgeltpunkten für langjährige Versicherung bei
+      Rentenbeginn vor dem 1. Januar 1992 SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Zuschlag an persönlichen Entgeltpunkten, für bestimmte Rentenarten,
+      die zu bestimmten Zeiten begonnen haben.
+    rechtsnorm: § 307i Zuschlag an persönlichen Entgeltpunkten bei Renten wegen Erwerbsminderung
+      und bei Renten wegen Todes SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Rentenzuschlag, zusätzliche monatliche Rentenleistung, die unter bestimmten
+      Bedingungen an Rentner ausgezahlt wird.
+    rechtsnorm: § 307j Rentenzuschlag bei Renten wegen Erwerbsminderung und Renten
+      wegen Todes für die Zeit von Juli 2024 bis November 2025 SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Rentenzuschlag, Auszahlung an Rentner, deren Rente nach Anwendung bestimmter
+      Vorschriften niedriger ist als der nach dem Übergangsrecht ermittelte Betrag.
+    rechtsnorm: § 319a Rentenzuschlag bei Rentenbeginn in den Jahren 1992 und 1993
+      SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  Grundsicherung:
+  - leistung: Grundsicherung im Alter und bei Erwerbsminderung, Informationen und
+      Beratung für Personen, die die Regelaltersgrenze erreicht haben oder voll erwerbsgemindert
+      sind und bei denen es unwahrscheinlich ist, dass die volle Erwerbsminderung
+      behoben werden kann.
+    rechtsnorm: § 109a Hilfen in Angelegenheiten der Grundsicherung SGB VI
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+    - Sozialhilfe & besondere Lebenslagen
+SGB VII:
+  Unfallversicherung:
+  - leistung: Umfang der Heilbehandlungen, die erhalten werden können beim Eintritt
+      eines Versicherungsfalles.
+    rechtsnorm: § 27 Umfang der Heilbehandlung, Anschluss an die Telematikinfrastruktur
+      SGB VII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Ärztliche und zahnärztliche Behandlung, zweckmäßigen und erforderlichen
+      Behandlungen durch Ärzte oder Zahnärzte.
+    rechtsnorm: § 28 Ärztliche und zahnärztliche Behandlung SGB VII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Arznei- und Verbandmittel, Übernahme von Kosten für Arznei und Verbandmittel
+      bis zum vorgeschriebenen Festbetrag.
+    rechtsnorm: § 29 Arznei- und Verbandmittel SGB VII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Häusliche Krankenpflege, Versicherte erhalten in ihrem Haushalt oder
+      ihrer Familie neben der ärztlichen Behandlung häusliche Krankenpflege durch
+      geeignete Pflegekräfte.
+    rechtsnorm: § 32 Häusliche Krankenpflege SGB VII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Stationäre Pflege, Behandlung in einem Krankenhaus oder in einer
+      Rehabilitationseinrichtung wird erbracht, wenn die Aufnahme erforderlich ist.
+    rechtsnorm: § 33 Behandlung in Krankenhäusern und Rehabilitationseinrichtungen
+      SGB VII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen zur Teilhabe, in Werkstätten für behinderte Menschen, bei
+      anderen Leistungsanbietern und umfasst auch Hilfe zu einer angemessenen Schulausbildung.
+    rechtsnorm: § 35 Leistungen zur Teilhabe am Arbeitsleben SGB VII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+    - Arbeit & Grundsicherung
+  - leistung: Kraftfahrzeughilfe und sonstige Leistungen, zur Erreichung und zur Sicherstellung
+      des Erfolges der Leistungen zur medizinischen Rehabilitation und zur Teilhabe.
+    rechtsnorm: § 39 Leistungen zur Sozialen Teilhabe und ergänzende Leistungen SGB VII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Kraftfahrzeughilfe, Beschaffung eines Kraftfahrzeugs, für eine behinderungsbedingte
+      Zusatzausstattung und zur Erlangung einer Fahrerlaubnis.
+    rechtsnorm: § 40 Kraftfahrzeughilfe SGB VII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Arbeit & Grundsicherung
+  - leistung: Wohnungshilfe, Hilfe bei behindertengerechter Anpassung von Wohnraum,
+      Umzugskosten und Kosten für die Bereitstellung von Wohnraum für eine Pflegekraft.
+    rechtsnorm: § 41 Wohnungshilfe SGB VII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Reisekostenübernahme im Zusammenhang mit medizinischer Rehabilitation
+      oder Teilhabe am Arbeitsleben, Übernahme von Fahr- und Transportkosten, Verpflegungs-
+      und Übernachtungskosten, Kosten des Gepäcktransports, Wegstreckenentschädigung
+      für die Versicherten und für eine wegen des Gesundheitsschadens erforderliche
+      Begleitperson.
+    rechtsnorm: § 43 Reisekosten SGB VII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+    - Arbeit & Grundsicherung
+  - leistung: Pflegegeld, Bereitstellung einer Pflegekraft/Heimpflege für Versicherte,
+      die aufgrund von Gesundheitsschäden Hilfe im Alltag benötigen.
+    rechtsnorm: § 44 Pflege SGB VII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Verletztengeld, Entgeltersatzleistung für Versicherte, die aufgrund
+      einer Verletzung arbeitsunfähig sind.
+    rechtsnorm: § 45 SGB VII
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Verletztengeld, regelt den Erhalt von Verletztengeld bei Wiedererkrankung.
+    rechtsnorm: § 48 Verletztengeld bei Wiedererkrankung SGB VII
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Arbeitsföderung, finanzielle Unterstützung für Versicherte, die infolge
+      eines Versicherungsfalls Leistungen zur Teilhabe am Arbeitsleben erhalten.
+    rechtsnorm: § 49 Übergangsgeld SGB VII
+    zielgruppen:
+    - Erwerbsalter
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Betriebshilfe und Haushaltshilfe, finanzielle oder materielle Hilfe
+      für landwirtschaftliche Unternehmer während einer stationären Behandlung, wenn
+      ihnen wegen dieser Behandlung die Weiterführung des Unternehmens oder des Haushalts
+      nicht möglich ist.
+    rechtsnorm: § 54 Betriebs- und Haushaltshilfe SGB VII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Erhöhung der Rente, Aufstocken der Rente bei Arbeitslosigkeit nach einem
+      Unfall.
+    rechtsnorm: § 58 Erhöhung der Rente bei Arbeitslosigkeit SGB VII
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Rente als vorläufige Entschädigung, nach Ablauf von drei Jahren nach
+      dem Versicherungsfall wird die vorläufige Entschädigung als Rente auf unbestimmte
+      Zeit geleistet.
+    rechtsnorm: § 62 Rente als vorläufige Entschädigung SGB VII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Unterstützung für Hinterbliebene, finanzielle Unterstützung für Hinterbliebene
+      in Form von Sterbegeld, Erstattung der Kosten der Überführung an den Ort der
+      Bestattung, Hinterbliebenenrenten und Beihilfe.
+    rechtsnorm: § 63 Leistungen bei Tod SGB VII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Alter & Rente / Versorgung
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Bestattungskosten, Sterbegeld und die Überführungskosten für die berechtigten
+      Personen.
+    rechtsnorm: § 64 Sterbegeld und Erstattung von Überführungskosten SGB VII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Witwen- oder Witwerrente, finanzielle Unterstützung für Witwen oder
+      Witwer von Versicherten.
+    rechtsnorm: § 65 Witwen- und Witwerrente SGB VII; § 218a Leistungen an Hinterbliebene
+      SGB VII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Rente für frühere Ehegatten von Versicherten, wenn die Versicherten
+      ihnen während des letzten Jahres vor ihrem Tod Unterhalt geleistet haben oder
+      den früheren Ehegatten im letzten wirtschaftlichen Dauerzustand vor dem Tod
+      der Versicherten ein Anspruch auf Unterhalt zustand.
+    rechtsnorm: § 66 Witwen- und Witwerrente an frühere Ehegatten; mehrere Berechtigte
+      SGB VII
+    zielgruppen:
+    - Senior/-innen
+    - Erwerbsalter
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Einmalige Beihilfe, 40 Prozent des Jahresarbeitsverdienstes für Witwen
+      oder Witwer von Versicherten.
+    rechtsnorm: § 71 Witwen- , Witwer- und Waisenbeihilfe SGB VII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Vorläufige Entschädigung und Rente, nach einem Unfall und nach Abschluss
+      der Heilbehandlung.
+    rechtsnorm: § 75 Abfindung mit einer Gesamtvergütung SGB VII
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+SGB VIII:
+  Familienhilfe:
+  - leistung: Förderung der Erziehung in der Familie, Leistungen, die die Familie
+      bei der Erziehung der Kinder unterstützen sollen (Familienbildung, Beratung
+      in allgemeinen Fragen der Erziehung, Angebote der Familienfreizeit).
+    rechtsnorm: § 16 Allgemeine Förderung der Erziehung in der Familie SGB VIII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Beratung in Fragen der Partnerschaft für Mütter und Väter, Beratung
+      in Fragen der Partnerschaft, Unterstützung bei der Bewältigung von Konflikten
+      und Krisen in der Familie, Unterstützung bei der Entwicklung eines einvernehmlichen
+      Konzepts für die Wahrnehmung der elterlichen Sorge und Verantwortung im Falle
+      einer Trennung oder Scheidung.
+    rechtsnorm: § 17 Beratung in Fragen der Partnerschaft, Trennung und Scheidung
+      SGB VIII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Beratung von alleine erziehenden Eltern, generelle Beratung von alleine
+      erziehenden Eltern, liegt ein Partnerschaft ohne Ehe vor gibt es ebenfalls ein
+      Recht auf Beratung.
+    rechtsnorm: § 18 Beratung und Unterstützung bei der Ausübung der Personensorge
+      und des Umgangsrechts SGB VIII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Förderung der Erziehung in der Familie, Bereitstellen einer geeigneten
+      Wohnung inklusive Betreuung, falls Vater oder Mutter alleine für ein Kind unter
+      6 Jahren Sorge tragen müssen und nicht im Stande sind.
+    rechtsnorm: § 19 Gemeinsame Wohnformen für Mütter/Väter und Kinder SGB VIII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Förderung der Erziehung in der Familie,  Eltern haben einen Anspruch
+      auf Unterstützung bei der Betreuung und Versorgung des im Haushalt lebenden
+      Kindes.
+    rechtsnorm: § 20 Betreuung und Versorgung des Kindes in Notsituationen SGB VIII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Kinder- und Jugendhilfe, Können Personensorgeberechtigte wegen des
+      mit ihrer beruflichen Tätigkeit verbundenen ständigen
+      Ortswechsels die Erfüllung der Schulpflicht ihres Kindes oder Jugendlichen nicht
+      sicherstellen und ist deshalb
+      eine anderweitige Unterbringung des Kindes oder des Jugendlichen notwendig,
+      so haben sie Anspruch auf Beratung und Unterstützung.
+    rechtsnorm: § 21 Unterstützung bei notwendiger Unterbringung zur Erfüllung der
+      Schulpflicht SGB VIII
+    zielgruppen:
+    - Kinder
+    - Jugendliche
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Kinder- und Jugendhilfe, Förderung eines Kindes, das das erste Lebensjahr
+      noch nicht vollendet hat in einer Kindertagespflege.
+    rechtsnorm: § 24 Anspruch auf Förderung in Tageseinrichtungen und in Kindertagespflege
+      SGB VIII
+    zielgruppen:
+    - Kinder
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Kinder- und Jugendhilfe,  Personensorgeberechtigter hat bei der Erziehung
+      eines Kindes oder eines Jugendlichen Anspruch auf Hilfe
+      (Hilfe zur Erziehung), wenn eine dem Wohl des Kindes oder des Jugendlichen entsprechende
+      Erziehung nicht gewährleistet ist.
+    rechtsnorm: § 27 Hilfe zur Erziehung SGB VIII
+    zielgruppen:
+    - Kinder
+    - Jugendliche
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Beratung in Fragen der Erziehung, Erziehungsberatungsstellen und andere
+      Beratungsdienste und -einrichtungen sollen Kinder, Jugendliche, Eltern und
+      andere Erziehungsberechtigte bei der Klärung und Bewältigung individueller und
+      familienbezogener Probleme und der zugrunde liegenden Faktoren, bei der Lösung
+      von Erziehungsfragen sowie bei Trennung und Scheidung unterstützen.
+    rechtsnorm: § 28 Erziehungsberatung SGB VIII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Kinder- und Jugendhilfe, Bereitstellung eines Betreuungshelfers.
+    rechtsnorm: § 30 Erziehungsbeistand, Betreuungshelfer SGB VIII
+    zielgruppen:
+    - Kinder
+    - Jugendliche
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Beratung in Fragen der Erziehung, Sozialpädagogische Familienhilfe
+      soll durch intensive Betreuung und Begleitung Familien in ihren
+      Erziehungsaufgaben, bei der Bewältigung von Alltagsproblemen, der Lösung von
+      Konflikten und Krisen sowie im
+      Kontakt mit Ämtern und Institutionen unterstützen und Hilfe zur Selbsthilfe
+      geben.
+    rechtsnorm: § 31 Sozialpädagogische Familienhilfe SGB VIII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Kinder- und Jugendhilfe, Erziehung in einer Tagesgruppe soll die Entwicklung
+      des Kindes oder des Jugendlichen durch soziales
+      Lernen in der Gruppe, Begleitung der schulischen Förderung und Elternarbeit
+      unterstützen und dadurch den
+      Verbleib des Kindes oder des Jugendlichen in seiner Familie sichern.
+    rechtsnorm: § 32 Erziehung in einer Tagesgruppe SGB VIII
+    zielgruppen:
+    - Kinder
+    - Jugendliche
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Kinder- und Jugendhilfe, Vollzeitpflege soll entsprechend dem Alter
+      und Entwicklungsstand des Kindes
+      oder des Jugendlichen und seinen persönlichen Bindungen sowie den Möglichkeiten
+      der Verbesserung
+      der Erziehungsbedingungen in der Herkunftsfamilie Kindern und Jugendlichen in
+      einer anderen Familie
+      eine zeitlich befristete Erziehungshilfe oder eine auf Dauer angelegte Lebensform
+      bieten.
+    rechtsnorm: § 33 Vollzeitpflege SGB VIII
+    zielgruppen:
+    - Kinder
+    - Jugendliche
+    themenfelder:
+    - Familie & Kinder
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Kinder- und Jugendhilfe, Hilfe zur Erziehung in einer Einrichtung über
+      Tag und Nacht (Heimerziehung) oder in einer sonstigen betreuten Wohnform soll
+      Kinder und Jugendliche durch eine Verbindung von Alltagserleben mit pädagogischen
+      und therapeutischen Angeboten in ihrer Entwicklung fördern.
+    rechtsnorm: § 34 Heimerziehung, sonstige betreute Wohnform SGB VIII
+    zielgruppen:
+    - Kinder
+    - Jugendliche
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Kinder- und Jugendhilfe, intensive sozialpädagogische Einzelbetreuung
+      soll Jugendlichen gewährt werden, die einer intensiven
+      Unterstützung zur sozialen Integration und zu einer eigenverantwortlichen Lebensführung
+      bedürfen.
+    rechtsnorm: § 35 Intensive sozialpädagogische Einzelbetreuung SGB VIII
+    zielgruppen:
+    - Jugendliche
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Kinder- und Jugendhilfe, Kosten für den Sachaufwand sowie für die Pflege
+      und Erziehung des Kindes oder Jugendlichen.
+    rechtsnorm: § 39 Leistungen zum Unterhalt des Kindes oder des Jugendlichen SGB VIII
+    zielgruppen:
+    - Jugendliche
+    - Kinder
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Beratung und Unterstützung, Das Jugendamt hat unverzüglich nach der
+      Geburt eines Kindes, dessen Eltern nicht miteinander verheiratet
+      sind, der Mutter Beratung und Unterstützung insbesondere bei der Vaterschaftsfeststellung
+      und der
+      Geltendmachung von Unterhaltsansprüchen des Kindes anzubieten.
+    rechtsnorm: § 52a Beratung und Unterstützung bei Vaterschaftsfeststellung und
+      Geltendmachung von 
+      Unterhaltsansprüchen SGB VIII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Beratung und Unterstützung, Vormünder haben Anspruch auf regelmäßige
+      und dem jeweiligen erzieherischen Bedarf des Mündels entsprechende Beratung
+      und Unterstützung durch das Jugendamt.
+    rechtsnorm: § 53a Beratung und Unterstützung von Vormündern und Pflegern SGB VIII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Familie & Kinder
+  Eingliederungshilfe:
+  - leistung: Kinder- und Jugendhilfe, Kinder oder Jugendliche haben Anspruch auf
+      Eingliederungshilfe.
+    rechtsnorm: § 35a Eingliederungshilfe für Kinder und Jugendliche mit seelischer
+      Behinderung oder drohender
+      seelischer Behinderung SGB VIII
+    zielgruppen:
+    - Kinder
+    - Jugendliche
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Beratung in Fragen der Erziehung, Eltern haben einen Anspruch auf Beratung
+      und Unterstützung sowie Förderung der Beziehung zu ihrem Kind.
+    rechtsnorm: § 37 Beratung und Unterstützung der Eltern, Zusammenarbeit bei Hilfen
+      außerhalb der eigenen Familie SGB VIII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Beratung in Fragen der Erziehung, Pflegepersonen haben vor der Aufnahme
+      des Kindes oder des Jugendlichen und während der Dauer des
+      Pflegeverhältnisses Anspruch auf Beratung und Unterstützung.
+    rechtsnorm: § 37a Beratung und Unterstützung der Pflegeperson SGB VIII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Familie & Kinder
+  Gesundheits- und Krankenhilfe:
+  - leistung: Krankenhilfe, Übernahme von Zuzahlungen und Eigenbeteiligungen, Übernahme
+      von Beiträgen für eine freiwillige Krankenversicherung, Bereitstellung von Krankenhilfe,
+      die Übernahme von Zuzahlungen und Eigenbeteiligungen sowie die Möglichkeit,
+      Beiträge für eine freiwillige Krankenversicherung zu übernehmen.
+    rechtsnorm: § 40 Krankenhilfe SGB VIII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Familie & Kinder
+    - Gesundheit, Pflege & Teilhabe
+  Jugendhilfe:
+  - leistung: Hilfe für junge Volljährige, geeignete und notwendige Hilfe für junge
+      Volljährige, deren Persönlichkeitsentwicklung eine selbstbestimmte, eigenverantwortliche
+      und selbständige Lebensführung nicht gewährleistet.
+    rechtsnorm: § 41 Hilfe für junge Volljährige SGB VIII
+    zielgruppen:
+    - Jugendliche
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Beratung und Unterstützung bei der Verselbständigung, Beratung und Unterstützung
+      junger Volljähriger nach Beendigung der Hilfe bei der Verselbständigung.
+    rechtsnorm: § 41a Nachbetreuung SGB VIII
+    zielgruppen:
+    - Jugendliche
+    themenfelder:
+    - Familie & Kinder
+SGB IX:
+  Leistungen zur medizinischen Rehabilitation:
+  - leistung: Leistungen zur medizinischen Rehabilitation, regelt sämtliche medizinischen
+      Leistungen, die erbracht werden können.
+    rechtsnorm: § 42 Leistungen zur medizinischen Rehabilitation SGB IX
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Stufenweise Wiedereingliederung, medizinische und ergänzende Leistungen,
+      die es arbeitsunfähigen Leistungsberechtigten nach ärztlicher Feststellung erlauben,
+      ihre Tätigkeit schrittweise wieder aufzunehmen.
+    rechtsnorm: § 44 Stufenweise Wiedereingliederung SGB IX
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Förderung der Erziehung in der Familie, medizinischen Leistungen zur
+      Früherkennung und Frühförderung für Kinder mit Behinderungen und von
+      Behinderung bedrohter Kinder.
+    rechtsnorm: § 46 Früherkennung und Frühförderung SGB IX
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Hilfsmittel, Versorgung von behinderten Personen.
+    rechtsnorm: § 47 Hilfsmittel SGB IX
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  Leistungen zur Teilhabe:
+  - leistung: Leistungen zur Teilhabe am Arbeitsleben, Erhalt, Verbesserung oder
+      Wiederherstellung der Erwerbsfähigkeit von
+      Menschen mit Behinderungen oder von Behinderung bedrohter Menschen entsprechend
+      ihrer Leistungsfähigkeit.
+    rechtsnorm: § 49 Leistungen zur Teilhabe am Arbeitsleben, Verordnungsermächtigung
+      SGB IX
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen zur Teilhabe am Arbeitsleben, Zuschüsse an Arbeitsgeber.
+    rechtsnorm: § 50 Leistungen an Arbeitgeber SGB IX
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen zur Teilhabe am Arbeitsleben, Auszahlung des Arbeitsförderungsgeldes.
+    rechtsnorm: § 59 Arbeitsförderungsgeld SGB IX
+    zielgruppen:
+    - Erwerbsalter
+    themenfelder:
+    - Arbeit & Grundsicherung
+  Unterhaltssichernde Leistungen:
+  - leistung: Medizinische Rehabilitation und Teilhabe am Arbeitsleben,  Absicherung
+      durch mehrere finanzielle Mittel.
+    rechtsnorm: § 64 Ergänzende Leistungen SGB IX
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Krankengeld, finanzielle Unterstützung im Falle von Krankheit, Verletzung
+      oder Übergang zwischen Arbeitsstellen.
+    rechtsnorm: § 65 Leistungen zum Lebensunterhalt SGB IX
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+    - Arbeit & Grundsicherung
+  Leistungen zur Teilhabe an Bildung:
+  - leistung: Unterstützende Leistungen zur Teilhabe an Bildung, Hilfen zur Schulbildung,
+      zur schulischen Berufsausbildung, zur Hochschulbildung und zur schulischen und
+      hochschulischen beruflichen Weiterbildung.
+    rechtsnorm: § 75 Leistungen zur Teilhabe an Bildung SGB IX
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+    - Bildung & Qualifizierung
+  Leistungen zur Sozialen Teilhabe:
+  - leistung: Leistungen für Wohnraum, Assistenzleistungen, heilpädagogische Leistungen,
+      Leistungen zur Betreuung in einer Pflegefamilie, Leistungen zum Erwerb und Erhalt
+      praktischer Kenntnisse und Fähigkeiten.
+    rechtsnorm: § 76 Leistungen zur Sozialen Teilhabe SGB IX
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  Leistung zur Sozialen Teilhabe:
+  - leistung: Leistungen für Wohnraum, dienen dem Umbau, der Ausstattung und der Erhaltung
+      von Wohnraum, der den besonderen Bedürfnissen von Menschen mit Behinderungen
+      entspricht.
+    rechtsnorm: § 77 Leistungen für Wohnraum SGB IX
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Unterstützungsleistungen zur Haushaltsführung, Leistungen der Assistenz
+      zur allgemeinen Befähigung zur Teilnahme am Leben.
+    rechtsnorm: § 78 Assistenzleistungen SGB IX
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Heilpädagogische Maßnahmen, Dient der Entwicklung des Kindes und zur Entfaltung
+      seiner Persönlichkeit.
+    rechtsnorm: § 79 Heilpädagogische Leistungen SGB IX
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Betreuung in einer Pflegefamilie, Ermöglichung der Betreuung in einer
+      anderen Familie als der Herkunftsfamilie durch eine geeignete Pflegeperson.
+    rechtsnorm: § 80 Leistungen zur Betreuung in einer Pflegefamilie SGB IX
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen zum Erwerb und Erhalt praktischer Kenntnisse und Fähigkeiten,
+      Einbringen in Fördergruppen und Schulungen oder ähnlichen Maßnahmen zur Vornahme
+      lebenspraktischer Handlungen einschließlich hauswirtschaftlicher Tätigkeiten
+      zu befähigen, sie auf die Teilhabe am Arbeitsleben vorzubereiten, ihre Sprache
+      und Kommunikation zu verbessern und sie zu befähigen, sich ohne fremde Hilfe
+      sicher im Verkehr zu bewegen.
+    rechtsnorm: § 81 Leistungen zum Erwerb und Erhalt praktischer Kenntnisse und Fähigkeiten
+      SGB IX
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen zur Förderung der Verständigung, Förderung der Verständigung
+      von Menschen mit Hör- und Sprachbehinderungen.
+    rechtsnorm: § 82 Leistungen zur Förderung der Verständigung SGB IX
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+    - Bildung & Qualifizierung
+  - leistung: Leistungen zur Mobilität, Beförderungsdienst und Leistungen für ein
+      Kraftfahrzeug.
+    rechtsnorm: § 83 Leistungen zur Mobilität SGB IX
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Hilfsmittel, Ermöglichung gleichberechtigter Teilhabe am Leben in der
+      Gemeinschaft. Hierzu gehören insbesondere barrierefreie Computer.
+    rechtsnorm: § 84 Hilfsmittel SGB IX
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  Besondere Leistungen zur selbstbestimmten Lebensführung für Menschen mit Behinderungen:
+  - leistung: Leistungen zur Beschäftigung, anerkannte Werkstätte für behinderte Menschen,
+      Leistungen bei anderen Leistungsanbietern, Leistungen bei privaten und öffentlichen
+      Arbeitgebern, Leistungen für ein Budget für Ausbildung, Gegenstände und Hilfsmittel.
+    rechtsnorm: § 111 Leistungen zur Beschäftigung SGB IX
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Arbeit & Grundsicherung
+  - leistung: Leistungen zur Teilhabe an Bildung, Hilfen zu einer Schulbildung, insbesondere
+      im Rahmen der allgemeinen Schulpflicht und zum Besuchweiterführender Schulen
+      einschließlich der Vorbereitung hierzu.
+    rechtsnorm: § 112 Leistungen zur Teilhabe an Bildung SGB IX
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+    - Bildung & Qualifizierung
+  - leistung: Leistungen zur sozialen Teilhabe, kostenfreie Beförderung von schwerbehinderten
+      Menschen im Personenverkehr.
+    rechtsnorm: § 228 Unentgeltliche Beförderung, Anspruch auf Erstattung der Fahrgeldausfälle
+      SGB IX
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+SGB XI:
+  Pflegeversicherung:
+  - leistung: Leistungen bei Pflegegrad 1, Pflegeberatung gemäß den § §  7a und 7b,
+      Beratung in der eigenen Häuslichkeit gemäß §  37 Absatz 3, zusätzliche Leistungen
+      für Pflegebedürftige in ambulant betreuten Wohngruppen gemäß §  38a.
+    rechtsnorm: § 28a Leistungen bei Pflegegrad 1 SGB XI
+    zielgruppen:
+    - Senior/-innen
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Häusliche Pflegehilfe, körperbezogene Pflegemaßnahmen, pflegerische
+      Betreuungsmaßnahmen und Hilfen bei der Haushaltsführung.
+    rechtsnorm: § 36 Pflegesachleistung SGB XI
+    zielgruppen:
+    - Senior/-innen
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Häusliche Pflegehilfe, finanzielle Unterstützung für Pflegebedürftige
+      der Pflegegrade 2 bis 5, die anstelle der häuslichen Pflegehilfe beantragt werden
+      kann.
+    rechtsnorm: § 37 Pflegegeld für selbst beschaffte Pflegehilfen SGB XI
+    zielgruppen:
+    - Senior/-innen
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Häusliche Pflegehilfe, Anspruch auf anteiliges Plegegeld, falls Pflegebedürftige
+      Sachleistungen nach § 36 SGB XI nur teilweise in Anspruch nehmen.
+    rechtsnorm: § 38 Kombination von Geldleistung und Sachleistung (Kombinationsleistung)
+      SGB XI
+    zielgruppen:
+    - Senior/-innen
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Häusliche Pflegehilfe, liegt eine Betreuung in einer ambulant betreuten
+      Wohngruppe vor, so gibt es einen Anspruch auf einen pauschalen finanziellen
+      Zuschlag.
+    rechtsnorm: § 38a Zusätzliche Leistungen für Pflegebedürftige in ambulant betreuten
+      Wohngruppen SGB XI
+    zielgruppen:
+    - Senior/-innen
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Häusliche Pflegehilfe, Übernahme der Kosten einer notwendigen Ersatzpflege
+      durch die Pflegekasse für längstens sechs Wochen je Kalenderjahr, wenn die reguläre
+      Pflegeperson aus verschiedenen Gründen an der Pflege gehindert ist.
+    rechtsnorm: § 39 Häusliche Pflege bei Verhinderung der Pflegeperson SGB XI
+    zielgruppen:
+    - Senior/-innen
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Häusliche Pflegehilfe, ergänzende Unterstützungsleistungen bei der Nutzung
+      digitaler Pflegeanwendungen.
+    rechtsnorm: § 39a Ergänzende Unterstützung bei Nutzung von digitalen Pflegeanwendungen
+      SGB XI
+    zielgruppen:
+    - Senior/-innen
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Häusliche Pflegehilfe, die Pflegekasse übernimmt bis zu einem gewissen
+      Grad Kosten für wohnumfeldverbessernde Maßnahmen (Pflegehilfsmittel, die zur
+      Erleichterung der Pflege oder zur Linderung von Beschwerden dienen).
+    rechtsnorm: § 40 Pflegehilfsmittel und wohnumfeldverbessernde Maßnahmen SGB XI
+    zielgruppen:
+    - Senior/-innen
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Häusliche Pflegehilfe, Anspruch auf Versorgung mit Anwendungen, die
+      wesentlich auf digitalen Technologien beruhen.
+    rechtsnorm: § 40a Digitale Pflegeanwendungen SGB XI
+    zielgruppen:
+    - Senior/-innen
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Häusliche Pflegehilfe, Anspruch auf eine finanzielle Unterstützung beim
+      Einsatz von digitalen Pflegeanwendungen.
+    rechtsnorm: § 40b Leistungsanspruch beim Einsatz digitaler Pflegeanwendungen SGB XI
+    zielgruppen:
+    - Senior/-innen
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Teilstationäre Pflege, Beförderung des Pflegebedürftigen, Übernahme
+      der pflegebedingten Aufwendungen, Betreuung, medizinische Behandlungspflege,
+      hierbei übernimmt die Pflegekasse je nach Pflegestufe einen bestimmten Betrag
+      pro Monat.
+    rechtsnorm: § 41 Tagespflege und Nachtpflege SGB XI
+    zielgruppen:
+    - Senior/-innen
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Teilstationäre Pflege, bei unzureichender Pflege zuhause besteht Anspruch
+      auf eine Kurzzeitpflege mit finanzieller Untersützung.
+    rechtsnorm: § 42 Kurzzeitpflege SGB XI
+    zielgruppen:
+    - Senior/-innen
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Vollstationäre Pflege, Pflegekasse übernimmt die pflegebedingten Aufwendungen
+      einschließlich der Aufwendungen für Betreuung und die Aufwendungen für Leistungen
+      der medizinischen Behandlungspflege.
+    rechtsnorm: § 43 Inhalt der Leistung SGB XI
+    zielgruppen:
+    - Senior/-innen
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Vollstationäre Pflege, bei Pflege in einer stationären Einrichtung gibt
+      es einen Anspruch auf zusätzliche Betreuung und Aktivierung.
+    rechtsnorm: § 43b Inhalt der Leistung SGB XI
+    zielgruppen:
+    - Senior/-innen
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Vollstationäre Pflege, bei langfristiger stationärer Pflege gibt es
+      eine Decklung des Eigenanteils, der mit Länge des Aufenthaltes steigt.
+    rechtsnorm: § 43c Begrenzung des Eigenanteils an den pflegebedingten Aufwendungen
+      SGB XI
+    zielgruppen:
+    - Senior/-innen
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Unterstützung des Pflegepersonals, Zuschüsse zur Kranken- und Pflegeversicherung.
+    rechtsnorm: § 44a Zusätzliche Leistungen bei Pflegezeit und kurzzeitiger Arbeitsverhinderung
+      SGB XI
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Angebote zur Unterstützung im Alltag, Betreuungsangebote, Angebote zur
+      Entlastung von Pflegenden oder Angebote zur Entlastung im Alltag sein.
+    rechtsnorm: § 45a Angebote zur Unterstützung im Alltag, Umwandlung des ambulanten
+      Sachleistungsbetrags SGB XI
+    zielgruppen:
+    - Senior/-innen
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Entlastungsbetrag für Pflegebedürftige, Anspruch auf einen Entlastungsbetrag
+      in Höhe von bis zu 125 Euro monatlich.
+    rechtsnorm: § 45b Entlastungsbetrag SGB XI
+    zielgruppen:
+    - Senior/-innen
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+SGB XII:
+  Sozialhilfe:
+  - leistung: Leistungen zur Deckung von Bedarfen, Erstausstattungen für die Wohnung
+      einschließlich Haushaltsgeräten, Erstausstattungen für Bekleidung und Erstausstattungen
+      bei Schwangerschaft und Geburt, Anschaffung und Reparaturen von orthopädischen
+      Schuhen, Reparaturen von therapeutischen Geräten und Ausrüstungen sowie die
+      Miete von therapeutischen Geräten.
+    rechtsnorm: § 31 Einmalige Bedarfe SGB XII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Beiträge für Kranken- und Pflegeversicherung, Anerkennung von Beiträgen
+      für eine Kranken- und Pflegeversicherung als Bedarf, wenn Leistungsberechtigte
+      diese nicht aus eigenem Einkommen tragen können.
+    rechtsnorm: § 32 Bedarfe für eine Kranken- und Pflegeversicherung SGB XII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Bildungs- und Teilhabeleistungen für Kinder und Jugendliche, finanzielle
+      Unterstützung für Schulausflüge, Klassenfahrten, persönlichen Schulbedarf, Schülerbeförderung,
+      Lernförderung, Mittagsverpflegung und Teilhabe am sozialen und kulturellen Leben.
+    rechtsnorm: § 34 Bedarfe für Bildung und Teilhabe SGB XII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Bedarf für Unterkunft und Heizung, Anerkennung der tatsächlichen Aufwendungen
+      für Unterkunft und Heizung.
+    rechtsnorm: § 35 Bedarfe für Unterkunft und Heizung SGB XII
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Übernahme von Schulden zur Sicherung der Unterkunft oder zur Behebung
+      einer vergleichbaren Notlage, Übernahme von Schulden zur Sicherung der Unterkunft
+      oder zur Behebung einer vergleichbaren Notlage. Sie kann als Beihilfe oder Darlehen
+      erbracht werden.
+    rechtsnorm: § 36 Sonstige Hilfen zur Sicherung der Unterkunft SGB XII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Übernahme von Zuzahlungen in Form eines ergänzenden Darlehens, Bereitstellung
+      eines Darlehens zur Deckung unabweisbarer Bedarfe, die auf keine andere Weise
+      gedeckt werden können.
+    rechtsnorm: § 37 Ergänzende Darlehen SGB XII
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Finanzielle Unterstützung, ein Darlehen zur Deckung des notwendigen
+      Lebensunterhalts, wenn eine leistungsberechtigte Person ihre Rente noch nicht
+      erhalten hat oder ihre Einkünfte und Sozialleistungen am Monatsende fällig werden.
+    rechtsnorm: § 37a Darlehen bei am Monatsende fälligen Einkünften SGB XII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Alter & Rente / Versorgung
+  - leistung: Medizinische Vorsorgeleistungen und Untersuchungen, zur Verhütung und
+      Früherkennung von Krankheiten.
+    rechtsnorm: § 47 Vorbeugende Gesundheitshilfe SGB XII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Krankenbehandlung, Erkennung, Heilung, Verhütung der Verschlimmerung
+      oder Linderung von Krankheitsbeschwerden.
+    rechtsnorm: § 48 Hilfe bei Krankheit SGB XII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Familienplanung, Ärztliche Beratung inklusive Untersuchung und Verordnung
+      von empfängnisregelnden Mitteln; Kostenübernahme für ärztlich verordnete empfängnisverhütende
+      Mittel.
+    rechtsnorm: § 49 Hilfe zur Familienplanung SGB XII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Familie & Kinder
+  - leistung: Leistungen bei Schwangerschaft und Mutterschaft, Ärztliche Behandlung
+      und Betreuung, Hebammenhilfe, Versorgung mit Arznei- , Verband- und Heilmitteln,
+      Pflege in einer stationären Einrichtung, häusliche Pflege und die angemessenen
+      Aufwendungen der Pflegeperson.
+    rechtsnorm: § 50 Hilfe bei Schwangerschaft und Mutterschaft SGB XII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Sterilisation aufgrund von Krankheit, ärztliche Untersuchung, Beratung
+      und Begutachtung, ärztliche Behandlung, Versorgung mit Arznei- , Verband- und
+      Heilmitteln, Krankenhauspflege.
+    rechtsnorm: § 51 Hilfe bei Sterilisation SGB XII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Pflegegeld, Anspruch auf Pflegegeld.
+    rechtsnorm: § 64a Pflegegeld SGB XII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Häusliche Pflegehilfe, Anspruch auf Pflegehilfe.
+    rechtsnorm: § 64b Häusliche Pflegehilfe SGB XII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Pflegehilfsmittel, Anspruch auf Pflegehilfsmittel.
+    rechtsnorm: § 64d Pflegehilfsmittel SGB XII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Maßnahmen zur Verbesserung des Wohnumfeldes der Pflegebedürftigen, um
+      die häusliche Pflege zu ermöglichen oder zu erleichtern und eine möglichst selbständige
+      Lebensführung der Pflegebedürftigen wiederherzustellen.
+    rechtsnorm: § 64e Maßnahmen zur Verbesserung des Wohnumfeldes SGB XII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Pflegegeld und zusätzliche Leistungen, Erstattung der Aufwendungen für
+      die Beiträge einer Pflegeperson oder einer besonderen Pflegekraft für eine angemessene
+      Alterssicherung, Übernahme der angemessenen Kosten für Beratung der Pflegeperson,
+      Übernahme der angemessenen Kosten für die Sicherstellung der häuslichen Pflege
+      für Pflegebedürftige der Pflegegrade 2, 3, 4 oder 5 im Rahmen des Arbeitgebermodells.
+    rechtsnorm: § 64f Andere Leistungen SGB XII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Tages- oder Nachtpflege, Teilstationäre Pflege in Einrichtungen der
+      Tages- oder Nachtpflege und die notwendige Beförderung des Pflegebedürftigen
+      von der Wohnung zur Einrichtung der Tages- oder Nachtpflege und zurück.
+    rechtsnorm: § 64g Teilstationäre Pflege SGB XII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Kurzzeitpflege, Anspruch auf Kurzzeitpflege in einer stationären Pflegeeinrichtung
+      für Pflegebedürftige der Pflegegrade 2, 3, 4 oder 5, wenn die häusliche Pflege
+      zeitweise nicht, noch nicht oder nicht im erforderlichen Umfang erbracht werden
+      kann und die teilstationäre Pflege nicht ausreicht.
+    rechtsnorm: § 64h Kurzzeitpflege SGB XII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Entlastungsbetrag für Pflegebedürftige, finanzielle Unterstützung in
+      Höhe von bis zu 125 Euro monatlich für Pflegebedürftige der Pflegegrade 2, 3,
+      4 oder 5 zur Entlastung pflegender Angehöriger, Förderung der Selbständigkeit
+      und Selbstbestimmung der Pflegebedürftigen bei der Gestaltung ihres Alltags
+      oder Inanspruchnahme von Unterstützungsangeboten. Entlastungsbetrag für Pflegebedürftige
+      des Pflegegrades 1, monatlicher Entlastungsbetrag von bis zu 125 Euro zur Entlastung
+      pflegender Angehöriger, Förderung der Selbständigkeit und Selbstbestimmung der
+      Pflegebedürftigen, Inanspruchnahme von Leistungen der häuslichen Pflegehilfe,
+      Maßnahmen zur Verbesserung des Wohnumfeldes, anderen Leistungen nach §  64f,
+      Leistungen zur teilstationären Pflege, Inanspruchnahme von Unterstützungsangeboten.
+    rechtsnorm: § 64i Entlastungsbetrag bei den Pflegegraden 2, 3, 4 oder 5 SGB XII,
+      § 66 Entlastungsbetrag bei Pflegegrad 1 SGB XII
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Digitale Pflegeanwendungen, Versorgung mit digitalen Pflegeanwendungen
+      zur Minderung von Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten
+      des Pflegebedürftigen.
+    rechtsnorm: § 64j Digitale Pflegeanwendungen SGB XII
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Unterstützungsleistungen für digitale Pflegeanwendungen, erforderliche
+      ergänzende Unterstützungsleistungen für die Nutzung digitaler Pflegeanwendungen.
+    rechtsnorm: § 64k Ergänzende Unterstützung bei Nutzung von digitalen Pflegeanwendungen
+      SGB XII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Stationäre Pflege, Betreuungsmaßnahmen für Pflegebedürftige der Pflegegrade
+      2, 3, 4 oder 5, wenn häusliche oder teilstationäre Pflege nicht möglich ist
+      oder wegen der Besonderheit des Einzelfalls nicht in Betracht kommt.
+    rechtsnorm: § 65 Stationäre Pflege SGB XII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Persönliche Betreuung, Übernahme von Aufwendungen, Beihilfen, Beiträge
+      zur Alterssicherung, Übernahme von Kosten für vorübergehende Unterbringung,
+      Unterstützung von Personen, die ihren Haushalt nicht selbst führen können.
+    rechtsnorm: § 70 Hilfe zur Weiterführung des Haushalts SGB XII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Leistungen zur Betätigung und gesellschaftlichem Engagement, Leistungen
+      bei der Beschaffung und Erhaltung einer altersgerechten Wohnung, Beratung und
+      Unterstützung im Vor- und Umfeld von Pflege, Beratung und Unterstützung in allen
+      Fragen der Inanspruchnahme altersgerechter Dienste, Leistungen zum Besuch von
+      Veranstaltungen oder Einrichtungen, Leistungen zur Verbindung mit nahe stehenden
+      Personen, Unterstützung und Förderung der Selbstständigkeit und Teilhabe von
+      alten Menschen in der Gesellschaft.
+    rechtsnorm: § 71 Altenhilfe SGB XII
+    zielgruppen:
+    - Senior/-innen
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Blindenhilfe, finanzielle Unterstützung zum Ausgleich der durch die
+      Blindheit bedingten Mehraufwendungen.
+    rechtsnorm: § 72 Blindenhilfe SGB XII
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Entlastung in sonstigen Lebenslagen, Leistungen können auch in sonstigen
+      Lebenslagen erbracht werden, wenn sie den Einsatz öffentlicher Mittel rechtfertigen.
+    rechtsnorm: § 73 Hilfe in sonstigen Lebenslagen SGB XII
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Übernahme der Bestattungskosten, wenn die Verpflichteten nicht in der
+      Lage sind, diese Kosten selbst zu tragen.
+    rechtsnorm: § 74 Bestattungskosten SGB XII
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+SGB XIV:
+  Soziale Entschädigung:
+  - leistung: Traumaambulanz, psychotherapeutische Intervention zur Verhinderung einer
+      psychischen Gesundheitsstörung oder deren Chronifizierung.
+    rechtsnorm: § 31 Leistungen in einer Traumaambulanz SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Traumaambulanz, psychotherapeutische Frühintervention in einer Traumaambulanz
+      für Geschädigte und deren Angehörige, Hinterbliebene und Nahestehende.
+    rechtsnorm: § 32 Psychotherapeutische Frühintervention SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Traumaambulanz, psychotherapeutische Intervention für Geschädigte, Angehörige,
+      Hinterbliebene und Nahestehende, die ein schädigendes Ereignis erlebt haben,
+      das zu einer akuten psychischen Belastung geführt hat.
+    rechtsnorm: § 33 Psychotherapeutische Intervention in anderen Fällen SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Traumaambulanz, bis zu 15 Sitzungen in der Traumaambulanz für Geschädigte,
+      Angehörige, Hinterbliebene und Nahestehende.
+    rechtsnorm: § 34 Leistungsvoraussetzungen und Leistungsumfang SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Traumaambulanz, Betreuung in der Traumaambulanz und die Verweisung auf
+      weitere psychotherapeutische Angebote bei Bedarf.
+    rechtsnorm: § 35 Weiterer Bedarf nach Betreuung in der Traumaambulanz SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Traumaambulanz, Übernahme der erforderlichen Fahrkosten zur nächstgelegenen
+      Traumaambulanz und der notwendigen Betreuungskosten für zu pflegende oder zu
+      betreuende Familienangehörige.
+    rechtsnorm: § 36 Fahrkosten SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen der Krankenbehandlung und weitere Leistungen, bestimmten
+      Grad der Schädigungsfolgen aufweisen und keine anderweitige Absicherung im Krankheitsfall
+      haben oder diese aufgrund der Schädigungsfolgen nicht mehr unterhalten können.
+    rechtsnorm: § 42 Krankenbehandlung SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Hilfsmittel und Pauschbetrag für außergewöhnlichen Verschleiß von Kleidung
+      und Wäsche, Unterstützung für Geschädigte mit anerkannten Schädigungsfolgen.
+    rechtsnorm: § 46 Versorgung mit Hilfsmitteln, Pauschbetrag für außergewöhnlichen
+      Verschleiß von Kleidung und SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Krankengeld der Sozialen Entschädigung, für Geschädigte, die aufgrund
+      einer anerkannten Schädigungsfolge arbeitsunfähig sind oder eine stationäre
+      Behandlung benötigen.
+    rechtsnorm: § 47 Krankengeld der Sozialen Entschädigung SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Beihilfe, finanzielle Unterstützung bei erheblicher Beeinträchtigung
+      der Erwerbsgrundlage oder bei unzureichenden Einkünften zur Bestreitung des
+      Lebensunterhalts.
+    rechtsnorm: § 48 Beihilfe bei erheblicher Beeinträchtigung der Erwerbsgrundlage
+      SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+    - Arbeit & Grundsicherung
+  - leistung: Zuschuss für Zahnersatz, finanzielle Unterstützung für die Beschaffung
+      eines Zahnersatzes wegen anerkannter Schädigungsfolgen.
+    rechtsnorm: § 49 Zuschüsse bei Zahnersatz SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Erstattung von Kosten für selbst beschaffte notwendige Behandlung von
+      Schädigungsfolgen, auch wenn nach Abschluss der Krankenbehandlung keine Gesundheitsstörung
+      mehr vorliegt oder wenn die Geschädigten durch Umstände, die außerhalb ihres
+      Willens lagen, daran gehindert waren, diesen Anspruch vor Beginn der Behandlung
+      geltend zu machen.
+    rechtsnorm: § 50 Erstattung von Kosten bei selbst beschaffter Krankenbehandlung
+      SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Erstattung von Kosten für notwendige Krankenbehandlungen im Ausland
+      und weitere damit verbundene Kosten, Erstattung von Kosten für notwendige Krankenbehandlungen
+      von Geschädigten im Ausland, sowie die Erstattung von weiteren notwendigen Kosten,
+      die im Zusammenhang mit der Krankenbehandlung anfallen.
+    rechtsnorm: § 51 Erstattung von Kosten für Krankenbehandlung bei vorübergehendem
+      Auslandsaufenthalt SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Krankengeld der Sozialen Entschädigung, Entrichtung von Beiträgen zur
+      Arbeitsförderung und zur gesetzlichen Rentenversicherung.
+    rechtsnorm: § 52 Beiträge zur Arbeitsförderung, zur gesetzlichen Rentenversicherung
+      und zur Alterssicherung SGB XIV
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Arbeit & Grundsicherung
+    - Alter & Rente / Versorgung
+  - leistung: Übernahme von notwendigen Reisekosten einschließlich des Gepäcktransports
+      sowie der Kosten für Verpflegung und Unterkunft im Zusammenhang mit einer Krankenbehandlung.
+    rechtsnorm: § 53 Reisekosten SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen zum Betrieb, Unterhalt, Unterstellen und Abstellen eines
+      Kraftfahrzeuges, Leistungen zur Teilhabe am Arbeitsleben, einschließlich Leistungen
+      im Eingangsverfahren und im Berufsbildungsbereich einer anerkannten Werkstatt
+      für behinderte Menschen, Leistungen im Arbeitsbereich einer anerkannten Werkstatt
+      für behinderte Menschen einschließlich des Arbeitsförderungsgeldes, Leistungen
+      bei anderen Leistungsanbietern, ein Budget für Arbeit und ein Budget für Ausbildung.
+    rechtsnorm: § 63 Leistungen zur Teilhabe am Arbeitsleben SGB XIV
+    zielgruppen:
+    - Erwerbsalter
+    - Jugendliche
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Arbeit & Grundsicherung
+  - leistung: Übergangsgeld, Reisekosten, Haushalts- oder Betriebshilfe, Kinderbetreuungskosten,
+      finanzielle Unterstützung und materielle Hilfe für Geschädigte und Hinterbliebene,
+      die Leistungen zur Teilhabe am Arbeitsleben erhalten.
+    rechtsnorm: § 64 Unterhaltssichernde und andere ergänzende Leistungen SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen zur Teilhabe, Unterstützung für Geschädigte, die aufgrund
+      der Schädigungsfolgen zum leistungsberechtigten Personenkreis gehören.
+    rechtsnorm: § 65 Leistungen zur Teilhabe an Bildung SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Bildung & Qualifizierung
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Übernahme von Kosten für Geschädigte mit vorübergehender Einschränkung.
+    rechtsnorm: § 73 Kostenübernahme vor Pflegebedürftigkeit im Sinne des Elften Buches
+      SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen bei Pflegebedürftigkeit, diverse Leistungen entsprechend
+      der Pflegebedürftigkeit.
+    rechtsnorm: § 74 Leistungen bei Pflegebedürftigkeit SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Pflegesachleistung, häusliche Pflege bei Verhinderung der Pflegeperson,
+      Pflegehilfsmittel und wohnumfeldverbessernde Maßnahmen, Tagespflege und Nachtpflege,
+      Kurzzeitpflege, Vollstationäre Pflege, Übernahme der notwendigen und angemessenen
+      Kosten, die über die Leistungen des Vierten Kapitels des Elften Buches hinausgehen.
+    rechtsnorm: § 75 Ergänzende Leistungen bei Pflegebedürftigkeit SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Erstattung der Kosten für häusliche Pflege, Erstattung der Kosten für
+      die Beschäftigung von Pflegekräften, einschließlich Sozialversicherungs- und
+      Arbeitsförderungsbeiträgen, sowie Aufwendungen für die Erfüllung der Pflichten
+      als Arbeitgeber.
+    rechtsnorm: § 76 Häusliche Pflege im Arbeitgebermodell SGB XIV
+    zielgruppen:
+    - Erwerbsalter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Arbeit & Grundsicherung
+  - leistung: Unterstützung für Geschädigte, finanzielle Unterstützung für Menschen
+      mit hochgradiger Sehbehinderung, Blindheit und Taubblindheit.
+    rechtsnorm: § 82 Anspruch und Umfang SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Unterstützung für Geschädigte, finanzielle Unterstützung für Geschädigte
+      basierend auf dem Grad der Schädigungsfolgen.
+    rechtsnorm: § 83 Monatliche Entschädigungszahlung SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Unterstützung für Geschädigte, Abfindung für Geschädigte, die einen
+      Anspruch auf eine monatliche Entschädigungszahlung haben. Die Abfindung beträgt
+      das 60-fache der monatlichen Entschädigungszahlung und wird auf Antrag gewährt.
+    rechtsnorm: § 84 Abfindung SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Monatliche Entschädigungszahlungen für Witwen, Witwer oder Partner einer
+      eheähnlichen Gemeinschaft, und zusätzliche Zahlung für minderjährige Kinder.
+    rechtsnorm: § 85 Monatliche Entschädigungszahlung an Witwen und Witwer sowie an
+      Partner einer eheähnlichen SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Abfindung anstelle der monatlichen Entschädigungszahlung, eine einmalige
+      Abfindung für Witwen und Witwer anstelle der monatlichen Entschädigungszahlung.
+      Die Höhe der Abfindung beträgt 132.386 Euro.
+    rechtsnorm: § 86 Abfindung für Witwen und Witwer SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Monatliche Entschädigungszahlungen für Waisen.
+    rechtsnorm: § 87 Monatliche Entschädigungszahlung an Waisen SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Monatliche Entschädigungszahlung für Eltern eines verstorbenen Geschädigten,
+      Eltern, die voll erwerbsgemindert sind, aus zwingenden Gründen keine zumutbare
+      Erwerbstätigkeit ausüben können oder das 60. Lebensjahr vollendet haben.
+    rechtsnorm: § 88 Monatliche Entschädigungszahlung an hinterbliebene Eltern SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Berufsschadensausgleich, monatlicher Ausgleich für den Einkommensverlust,
+      der durch eine gesundheitliche Schädigung entstanden ist.
+    rechtsnorm: § 89 Voraussetzung und Höhe SGB XIV
+    zielgruppen:
+    - Erwerbsalter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Besondere Leistungen im Einzelfall, Leistungen zum Lebensunterhalt,
+      Förderung einer Ausbildung, Weiterführung des Haushalts, Leistungen in sonstigen
+      Lebenslagen.
+    rechtsnorm: § 92 Anspruch und Umfang SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Leistungen zum Lebensunterhalt, finanzielle Unterstützung für Geschädigte
+      und Hinterbliebene zur Sicherung des Lebensunterhalts.
+    rechtsnorm: § 93 Leistungen zum Lebensunterhalt SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Übernahme der Rückzahlung des Ausbildungsdarlehens für Geschädigte und
+      Waisen, wenn die Ausbildung schädigungsbedingt erfolgt.
+    rechtsnorm: § 94 Leistung zur Förderung einer Ausbildung SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Bildung & Qualifizierung
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Unterstützung bei der Weiterführung des Haushaltes.
+    rechtsnorm: § 95 Leistungen zur Weiterführung des Haushalts SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen in sonstigen Lebenslagen, Unterstützung für Geschädigte,
+      wenn diese den Einsatz öffentlicher Mittel rechtfertigen.
+    rechtsnorm: § 96 Leistungen in sonstigen Lebenslagen SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Übernahme der Kosten für Überführung und Bestattung, die an den Folgen
+      einer anerkannten Schädigung gestorben ist.
+    rechtsnorm: § 99 Leistungen bei Überführung und Bestattung SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen für Zivildienstgeschädigte und Hinterbliebene, Anspruch auf
+      soziale Entschädigung nach Beendigung des Dienstverhältnisses.
+    rechtsnorm: § 103 Leistungen für Zivildienstgeschädigte und Hinterbliebene SGB XIV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+AFBG:
+  Bildung und Ausbildung:
+  - leistung: Beitrag zu den Kosten der Lehrveranstaltung und Beitrag zur Deckung
+      des Unterhaltsbedarfs.
+    rechtsnorm: § 10 Umfang der Förderung - AFBG
+    zielgruppen:
+    - Jugendliche
+    - Erwerbsalter
+    themenfelder:
+    - Bildung & Qualifizierung
+  - leistung: Förderung der Lehrgangs- und Prüfungsgebühren, Förderung der Erstellung
+      der fachpraktischen Arbeit, Unterhaltsbeitrag, Kinderbetreuungszuschlag.
+    rechtsnorm: § 12 Förderungsart - AFBG
+    zielgruppen:
+    - Jugendliche
+    - Erwerbsalter
+    themenfelder:
+    - Bildung & Qualifizierung
+  - leistung: Freistellung von der Verpflichtung zur Rückzahlung eines Darlehens unter
+      bestimmten Einkommensbedingungen.
+    rechtsnorm: § 13a Einkommensabhängige Rückzahlung - AFBG
+    zielgruppen:
+    - Jugendliche
+    - Erwerbsalter
+    themenfelder:
+    - Bildung & Qualifizierung
+  Bildung und Unternehmertum:
+  - leistung: Darlehenserlass und Stundung, Erlass von 50 Prozent des noch nicht fälligen
+      Darlehens für Lehrgangs- und Prüfungsgebühren nach Bestehen der Fortbildungsprüfung.
+    rechtsnorm: § 13b Erlass und Stundung - AFBG
+    zielgruppen:
+    - Jugendliche
+    - Erwerbsalter
+    themenfelder:
+    - Bildung & Qualifizierung
+AsylbLG:
+  Sozialhilfe:
+  - leistung: Leistungen zur Deckung des Grundbedarfs, Deckung des Bedarfs an Ernährung,
+      Unterkunft, Heizung, Kleidung, Gesundheitspflege und Gebrauchs- und Verbrauchsgütern
+      des Haushalts sowie Leistungen zur Deckung persönlicher Bedürfnisse des täglichen
+      Lebens.
+    rechtsnorm: § 3 Grundleistungen - AsylbLG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Leistungen zur Deckung des Grundbedarfs, monatliche Geldleistungen für
+      verschiedene Gruppen von Leistungsberechtigten, einschließlich Erwachsenen,
+      Jugendlichen und Kindern, basierend auf ihren individuellen Lebensumständen
+      und Bedürfnissen.
+    rechtsnorm: § 3a Bedarfssätze der Grundleistungen - AsylbLG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+  Gesundheitsleistungen:
+  - leistung: Ärztliche und zahnärztliche Behandlung, Versorgung mit Arznei- und Verbandmitteln,
+      Schutzimpfungen, Vorsorgeuntersuchungen, Versorgung mit Zahnersatz, Hilfe und
+      Betreuung für werdende Mütter und Wöchnerinnen, Hebammenhilfe, Bereitstellung
+      von medizinischen Leistungen zur Behandlung akuter Erkrankungen und Schmerzzustände,
+      zur Verhütung und Früherkennung von Krankheiten sowie spezielle Leistungen für
+      werdende Mütter und Wöchnerinnen.
+    rechtsnorm: § 4 Leistungen bei Krankheit, Schwangerschaft und Geburt - AsylbLG
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+  - leistung: Sonstige Leistungen, Sach- oder Geldleistungen zur Sicherung des Lebensunterhalts
+      oder der Gesundheit, zur Deckung besonderer Bedürfnisse von Kindern oder zur
+      Erfüllung einer verwaltungsrechtlichen Mitwirkungspflicht umfassen.
+    rechtsnorm: § 6 Sonstige Leistungen - AsylbLG
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+  Asylbewerberleistung:
+  - leistung: Erstattung von Aufwendungen in Eilfällen, wenn diese bei rechtzeitigem
+      Einsetzen von Leistungen nach den §§  3, 4 und 6 nicht zu erbringen gewesen
+      wären.
+    rechtsnorm: § 6a Erstattung von Aufwendungen anderer - AsylbLG
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+BAföG:
+  Bildung und Ausbildung:
+  - leistung: Ausbildungsförderung, finanzielle Unterstützung für den Lebensunterhalt
+      und die Ausbildung des Auszubildenden. Die Ausbildungsförderung wird als Zuschuss
+      oder Darlehen für den Besuch von höheren Fachschulen, Akademien und Hochschulen
+      sowie für die Teilnahme an einem Praktikum, das im Zusammenhang mit dem Besuch
+      dieser Ausbildungsstätten steht, geleistet.
+    rechtsnorm: § 11 Umfang der Ausbildungsförderung - BAföG, § 17 Förderungsarten
+      - BAföG
+    zielgruppen:
+    - Jedes Alter
+    - Erwerbsalter
+    themenfelder:
+    - Bildung & Qualifizierung
+  - leistung: Ausbildungsförderung, monatliche finanzielle Unterstützung für Schüler
+      und Auszubildende, die nicht bei ihren Eltern wohnen, sowie Reisekostenzuschüsse
+      für Ausbildungen im Ausland.
+    rechtsnorm: § 12 Bedarf für Schüler - BAföG
+    zielgruppen:
+    - Jedes Alter
+    - Jugendliche
+    themenfelder:
+    - Bildung & Qualifizierung
+  - leistung: Ausbildungsförderung, monatliche finanzielle Unterstützung für Auszubildende,
+      die sich je nach Art der Ausbildung und Wohnsituation unterscheidet.
+    rechtsnorm: § 13 Bedarf für Studierende - BAföG
+    zielgruppen:
+    - Jedes Alter
+    - Erwerbsalter
+    themenfelder:
+    - Bildung & Qualifizierung
+  - leistung: Ausbildungsförderung, monatliche Erhöhung des Bedarfs um 102 Euro für
+      den Krankenversicherungsbeitrag und um weitere 35 Euro für den Pflegeversicherungsbeitrag
+      von Auszubildenden, die in der gesetzlichen Krankenversicherung versichert sind.
+    rechtsnorm: § 13a Kranken- und Pflegeversicherungszuschlag - BAföG
+    zielgruppen:
+    - Jedes Alter
+    - Erwerbsalter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Ausbildungsförderung, monatliche finanzielle Unterstützung, die mit
+      der Ausbildung des Praktikanten in Verbindung steht.
+    rechtsnorm: § 14 Bedarf für Praktikanten - BAföG
+    zielgruppen:
+    - Jedes Alter
+    - Erwerbsalter
+    themenfelder:
+    - Bildung & Qualifizierung
+  - leistung: Ausbildungsförderung, monatlicher Zuschlag von 160 Euro pro Kind unter
+      14 Jahren für Auszubildende, die mit mindestens einem eigenen Kind in einem
+      Haushalt leben.
+    rechtsnorm: § 14b Zusatzleistung für Auszubildende mit Kind (Kinderbetreuungszuschlag)
+      - BAföG
+    zielgruppen:
+    - Jedes Alter
+    - Erwerbsalter
+    themenfelder:
+    - Bildung & Qualifizierung
+  - leistung: Finanzielle Unterstützung für Auszubildende und ihre Familien, Freibeträge
+      vom Einkommen der Eltern und des Ehegatten oder Lebenspartners.
+    rechtsnorm: § 25 Freibeträge vom Einkommen der Eltern und des Ehegatten oder Lebenspartners
+      - BaföG
+    zielgruppen:
+    - Jedes Alter
+    - Erwerbsalter
+    themenfelder:
+    - Bildung & Qualifizierung
+  - leistung: Finanzielle Unterstützung für Auszubildende und ihre Familien, Freibeträge
+      vom Vermögen.
+    rechtsnorm: § 29 Freibeträge vom Vermögen - BAföG
+    zielgruppen:
+    - Jedes Alter
+    - Erwerbsalter
+    themenfelder:
+    - Bildung & Qualifizierung
+  - leistung: Studienstarthilfe, finanzielle Unterstützung für den Beginn eines Studiums.
+    rechtsnorm: § 56b Nichtanrechnung - BAföG
+    zielgruppen:
+    - Jedes Alter
+    - Erwerbsalter
+    themenfelder:
+    - Bildung & Qualifizierung
+  Ausbildungsförderung:
+  - leistung: Finanzielle Unterstützung für Auszubildende und ihre Familien.
+    rechtsnorm: § 23 Freibeträge vom Einkommen des Auszubildenden - BAföG
+    zielgruppen:
+    - Jedes Alter
+    - Erwerbsalter
+    themenfelder:
+    - Bildung & Qualifizierung
+  - leistung: Studienstarthilfe, finanzielle Unterstützung für Auszubildende, die
+      sich erstmalig an einer Ausbildungsstätte oder Hochschule immatrikulieren und
+      bestimmte Voraussetzungen erfüllen. Umfang der finanziellen Studienstarthilfe.
+    rechtsnorm: § 56 Leistungsberechtigte, Verfahren, Zuständigkeit; Verordnungsermächtigung
+      - BAföG, § 56a Förderungsart und Umfang - BAföG
+    zielgruppen:
+    - Jedes Alter
+    - Erwerbsalter
+    themenfelder:
+    - Bildung & Qualifizierung
+BeamtVG:
+  Versorgung von Beamten und Richtern des Bundes:
+  - leistung: Ruhegehalt für Beamte, beinhaltet eine finanzielle Unterstützung für
+      Beamte nach Beendigung ihrer aktiven Dienstzeit.
+    rechtsnorm: § 14 Höhe des Ruhegehalts - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Ruhegehalt für Beamte, vorübergehende Erhöhung des Ruhegehaltssatzes
+      für Beamte, die vor Erreichen der Regelaltersgrenze in den Ruhestand getreten
+      sind und bestimmte Bedingungen erfüllen.
+    rechtsnorm: § 14a Vorübergehende Erhöhung des Ruhegehaltssatzes - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Hinterbliebenenversorgung, die Bezüge des verstorbenen Beamten für den
+      Sterbemonat, einschließlich einer möglichen Aufwandsentschädigung, werden an
+      die Erben oder bestimmte Hinterbliebene ausgezahlt.
+    rechtsnorm: § 17 Bezüge für den Sterbemonat - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Hinterbliebenenversorgung, einmalige Zahlung in Höhe des Zweifachen
+      der Dienstbezüge oder der Anwärterbezüge des Verstorbenen an den hinterbliebenen
+      Ehegatten und die Abkömmlinge des Beamten.
+    rechtsnorm: § 18 Sterbegeld - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Hinterbliebenenversorgung, finanzielle Unterstützung für die Witwe eines
+      Beamten auf Lebenszeit oder eines Ruhestandsbeamten unter bestimmten Bedingungen.  Das
+      Witwengeld beträgt 55 Prozent des Ruhegehalts, das der Verstorbene erhalten
+      hat oder hätte erhalten können, wenn er am Todestage in den Ruhestand getreten
+      wäre.
+    rechtsnorm: § 19 Witwengeld - BeamtVG, § 20 Höhe des Witwengeldes - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Hinterbliebenenversorgung, einmalige Zahlung, die das Vierundzwanzigfache
+      des monatlichen Witwengeldes oder Unterhaltsbeitrages beträgt, im Falle einer
+      Heirat der Witwe.
+    rechtsnorm: § 21 Witwenabfindung - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Hinterbliebenenversorgung, Unterhaltsbeitrag in Höhe des Witwengeldes
+      für die geschiedene oder verwitwete Ehefrau eines verstorbenen Beamten oder
+      Ruhestandsbeamten, sofern sie erwerbsgemindert ist, ein waisengeldberechtigtes
+      Kind erzieht oder das sechzigste Lebensjahr vollendet hat.
+    rechtsnorm: § 22 Unterhaltsbeitrag für nicht witwengeldberechtigte Witwen und
+      frühere Ehefrauen - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Hinterbliebenenversorgung, Kinder eines verstorbenen Beamten erhalten
+      Waisengeld, wenn der Beamte die Voraussetzungen des §  4 Abs. 1 erfüllt hat.
+      Das Waisengeld beträgt für die Halbwaise zwölf Prozent und für die Vollwaise
+      zwanzig Prozent des Ruhegehalts, das der Verstorbene erhalten hat oder hätte
+      erhalten können.
+    rechtsnorm: § 23 Waisengeld - BeamtVG, § 24 Höhe des Waisengeldes - BeamtVG
+    zielgruppen:
+    - Jugendliche
+    - Kinder
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Hinterbliebenenversorgung, finanzielle Unterstützung bis zu der in den
+      § §  19, 20 und 22 bis 25 vorgesehenen Höhe.
+    rechtsnorm: § 26 Unterhaltsbeitrag für Hinterbliebene von Beamten auf Lebenszeit
+      und auf Probe - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Hinterbliebenenversorgung, finanzielle Unterstützung für den Witwer
+      oder den geschiedenen Ehemann einer verstorbenen Beamtin oder Ruhestandsbeamtin.
+    rechtsnorm: § 28 Witwerversorgung - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Auszahlung von Bezügen an verschollene Beamte bis zum Zeitpunkt, an
+      dem ihr Tod wahrscheinlich ist. Danach erhalten die Hinterbliebenen, die im
+      Falle des Todes des Verschollenen Witwen- oder Waisengeld erhalten würden oder
+      einen Unterhaltsbeitrag erhalten könnten, diese Bezüge.
+    rechtsnorm: § 29 Zahlung der Bezüge - BeamtVG
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Unfallfürsorge, Ersatz für beschädigte oder verlorene Gegenstände, die
+      der Beamte zur Dienstausübung benötigt hat, und Erstattung von Kosten für
+      Erste-Hilfe-Leistungen nach einem Unfall.
+    rechtsnorm: § 32 Erstattung von Sachschäden und besonderen Aufwendungen - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Unfallfürsorge, medizinische Versorgung, Rehabilitationsmaßnahmen, Pflege,
+      Haushaltshilfe, Fahrten, Kleider- und Wäscheverschleiß, Kraftfahrzeughilfe,
+      Anpassung des Wohnumfelds und Bestattungskosten im Falle des Todes durch einen
+      Dienstunfall.
+    rechtsnorm: § 33 Heilverfahren - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Unfallfürsorge, Erstattung der Kosten für notwendige Pflege in angemessenem
+      Umfang.
+    rechtsnorm: § 34 Pflegekosten - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Unfallfürsorge, Unfallausgleich für den Verletzten, wenn seine Erwerbsfähigkeit
+      infolge eines Dienstunfalls um mindestens 25 Prozent für mehr als sechs Monate
+      gemindert ist.
+    rechtsnorm: § 35 Unfallausgleich - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Unfallfürsorge, finanzielle Unterstützung, die mindestens 66,67 Prozent
+      und maximal 75 Prozent der ruhegehaltfähigen Dienstbezüge beträgt.
+    rechtsnorm: § 36 Unfallruhegehalt - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Unfallfürsorge, das Unfallruhegehalt wird einem Beamten gewährt, wenn
+      er infolge eines Dienstunfalls dienstunfähig geworden ist und in den Ruhestand
+      versetzt wurde.
+    rechtsnorm: § 37 Erhöhtes Unfallruhegehalt - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Unterhaltsbeitrag für die Dauer einer durch den Dienstunfall verursachten
+      Erwerbsbeschränkung.
+    rechtsnorm: § 38 Unterhaltsbeitrag für frühere Beamte und frühere Ruhestandsbeamte
+      - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Unfallfürsorge, finanzielle Unterstützung für Personen, deren Erwerbsfähigkeit
+      durch einen Dienstunfall der Mutter gemindert wurde.
+    rechtsnorm: § 38a Unterhaltsbeitrag bei Schädigung eines ungeborenen Kindes -
+      BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Unfallfürsorge, Witwengeld und Waisengeld.
+    rechtsnorm: § 39 Unfall- Hinterbliebenenversorgung - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Unfallfürsorge, Unterhaltsbeitrag für Verwandte der aufsteigenden Linie,
+      deren Unterhalt zur Zeit des Dienstunfalles ganz oder überwiegend durch den
+      Verstorbenen bestritten wurde.
+    rechtsnorm: § 40 Unterhaltsbeitrag für Verwandte der aufsteigenden Linie - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Unfallfürsorge, Unterhaltsbeitrag für die Hinterbliebenen eines verstorbenen
+      Beamten oder Ruhestandsbeamten.
+    rechtsnorm: § 41 Unterhaltsbeitrag für Hinterbliebene - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Unfallfürsorge, einmalige finanzielle Entschädigung für Bundesbeamte
+      und andere Angehörige des öffentlichen Dienstes, die einen Dienstunfall oder
+      einen Einsatzunfall erleiden.
+    rechtsnorm: § 43 Einmalige Unfallentschädigung und einmalige Entschädigung - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Unfallfürsorge, Ersatz von Schäden, die einem Beamten oder anderen Angehörigen
+      des öffentlichen Dienstes während besonderer Verhältnisse entstehen.
+    rechtsnorm: § 43a Schadensausgleich in besonderen Fällen - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Übergangsgeld für Beamte, Finanzielle Unterstützung nach der Entlassung,
+      die sich nach der Dauer der Beschäftigungszeit richtet.
+    rechtsnorm: § 47 Übergangsgeld - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Übergangsgeld für Beamte, das Übergangsgeld für Beamte, die nicht auf
+      eigenen Antrag entlassen werden, beträgt 71,75 Prozent der ruhegehaltfähigen
+      Dienstbezüge aus der Endstufe der Besoldungsgruppe, in der der Beamte sich zur
+      Zeit seiner Entlassung befand.
+    rechtsnorm: § 47a Übergangsgeld für entlassene politische Beamte - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Ausgleichszahlung in Höhe des Fünffachen der Dienstbezüge des letzten
+      Monats, jedoch nicht über 4.091 Euro, für Beamte, die vor Vollendung des 67.
+      Lebensjahres wegen Erreichens der besonderen Altersgrenze in den Ruhestand treten.
+    rechtsnorm: § 48 Ausgleich bei besonderen Altersgrenzen - BeamtVG
+    zielgruppen:
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Familienzuschlag und Ausgleichsbetrag, finanzielle Unterstützung für
+      Beamte, Ruhestandsbeamte und deren Familien in Form von Familienzuschlägen und
+      Ausgleichsbeträgen.
+    rechtsnorm: § 50 Familienzuschlag und Ausgleichsbetrag - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+    - Familie & Kinder
+  - leistung: Erhöhung des Ruhegehalts für jeden Monat einer dem Beamten zuzuordnenden
+      Kindererziehungszeit um einen Kindererziehungszuschlag
+    rechtsnorm: § 50a Kindererziehungszuschlag - BeamtVG
+    zielgruppen:
+    - Kinder
+    - Jedes Alter
+    themenfelder:
+    - Familie & Kinder
+    - Alter & Rente / Versorgung
+  - leistung: Erhöhung des Ruhegehalts um einen Kindererziehungsergänzungszuschlag
+      für Zeiten der Erziehung eines Kindes bis zur Vollendung des zehnten Lebensjahres
+      oder Zeiten der nichterwerbsmäßigen Pflege eines pflegebedürftigen Kindes bis
+      zur Vollendung des 18. Lebensjahres.
+    rechtsnorm: § 50b Kindererziehungsergänzungszuschlag - BeamtVG
+    zielgruppen:
+    - Kinder
+    - Jedes Alter
+    themenfelder:
+    - Familie & Kinder
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Erhöhtes Witwengeld durch einen Kinderzuschlag für jeden Monat einer
+      Kindererziehungszeit bis zum Ablauf des Monats, in dem das Kind das dritte Lebensjahr
+      vollendet hat.
+    rechtsnorm: § 50c Kinderzuschlag zum Witwengeld - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Kinder
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Kindererziehungsergänzungszuschlag, finanzielle Unterstützung, die an
+      den aktuellen Rentenwert gekoppelt ist und unter bestimmten Voraussetzungen
+      für die Kindererziehung gewährt wird.
+    rechtsnorm: § 50d Abs. 1 Satz 1 zusammentreffen, - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Pflegezuschlag und Kinderpflegeergänzungszuschlag für Beamte, die einen
+      Pflegebedürftigen oder ein pflegebedürftiges Kind nicht erwerbsmäßig gepflegt
+      haben.
+    rechtsnorm: § 50d Pflege- und Kinderpflegeergänzungszuschlag - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Vorübergehende Leistungen für Versorgungsempfänger, die vor Erreichen
+      der Regelaltersgrenze in den Ruhestand treten.
+    rechtsnorm: § 50e Vorübergehende Gewährung von Zuschlägen - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Heilverfahren, Ersatz von Sachschäden, Unterhaltsbeitrag, Heilverfahren
+      im Falle eines Dienstunfalls, Ersatz von Sachschäden und einen nach billigem
+      Ermessen festzusetzenden Unterhaltsbeitrag.
+    rechtsnorm: § 68 Ehrenbeamte - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Unterhaltsbeiträge für geschiedene Ehegatten.
+    rechtsnorm: § 86 Hinterbliebenenversorgung - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Versorgung von Beamten , Entschädigung aus einer Unfallversicherung.
+    rechtsnorm: § 87 Unfallfürsorge - BeamtVG
+    zielgruppen:
+    - Jedes Alter
+    - Erwerbsalter
+    themenfelder:
+    - Sozialhilfe & besondere Lebenslagen
+BEEG:
+  Familienleistungen:
+  - leistung: Elterngeld, das Elterngeld beträgt 67 Prozent des Einkommens aus Erwerbstätigkeit
+      vor der Geburt des Kindes und wird bis zu einem Höchstbetrag von 1.800 Euro
+      monatlich gezahlt.
+    rechtsnorm: § 2 Höhe des Elterngeldes - BEEG
+    zielgruppen:
+    - Jedes Alter
+    - Erwerbsalter
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Geschwisterbonus, Erhöhung des Elterngeldes um 10 Prozent oder mindestens
+      75 Euro für berechtigte Personen, die in einem Haushalt mit zwei Kindern unter
+      drei Jahren oder drei oder mehr Kindern unter sechs Jahren leben.
+    rechtsnorm: § 2a Geschwisterbonus und Mehrlingszuschlag - BEEG
+    zielgruppen:
+    - Jedes Alter
+    - Erwerbsalter
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Finanzielle Unterstützung für Eltern nach der Geburt eines Kindes.
+    rechtsnorm: § 3 Anrechnung von anderen Einnahmen - BEEG
+    zielgruppen:
+    - Jedes Alter
+    - Erwerbsalter
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Elterngeld und Elterngeld Plus, finanzielle Unterstützung für Eltern
+      nach der Geburt eines Kindes. Das Elterngeld Plus beträgt monatlich höchstens
+      die Hälfte des Basiselterngeldes.
+    rechtsnorm: § 4a Berechnung von Basiselterngeld und Elterngeld Plus - BEEG
+    zielgruppen:
+    - Jedes Alter
+    - Erwerbsalter
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Partnerschaftsbonus, zusätzlicher Monatsbetrag für Eltern, die bestimmte
+      Erwerbstätigkeitsvoraussetzungen erfüllen.
+    rechtsnorm: § 4b Partnerschaftsbonus - BEEG
+    zielgruppen:
+    - Jedes Alter
+    - Erwerbsalter
+    themenfelder:
+    - Familie & Kinder
+BKGG:
+  Familienleistungen:
+  - leistung: Kindergeld, finanzielle Unterstützung für Familien mit Kindern unter
+      25 Jahren, die bestimmte Einkommensgrenzen nicht überschreiten.
+    rechtsnorm: § 6a Kinderzuschlag - BKGG
+    zielgruppen:
+    - Kinder
+    - Jugendliche
+    themenfelder:
+    - Familie & Kinder
+  Bildung und Teilhabe:
+  - leistung: Erweiterte Leistungen Kindergeld, finanzielle Unterstützung für Bildung
+      und Teilhabe eines Kindes, das in einem Haushalt mit der berechtigten Person
+      lebt.
+    rechtsnorm: § 6b Leistungen für Bildung und Teilhabe - BKGG
+    zielgruppen:
+    - Kinder
+    - Jugendliche
+    themenfelder:
+    - Familie & Kinder
+    - Bildung & Qualifizierung
+EStG:
+  Altersvorsorge:
+  - leistung: Zusätzliche Altersvorsorge, Reglung der zusätzlichen Altersvorsorgeförderung
+      durch Sonderausgabenabzug und Zulagen, insbesondere für Beiträge zur Riester-Rente.
+    rechtsnorm: § 10a Zusätzliche Altersvorsorge - EStG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  Freibeträge:
+  - leistung: Altersentlastungsbetrag, Minderung der Steuerlast für ältere Steuerpflichtige,
+      indem ein Teil ihrer nicht rentenbezogenen Einkünfte steuerfrei gestellt wird.
+    rechtsnorm: § 24a Altersentlastungsbetrag - EStG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Entlastungsbetrag für Alleinerziehende, alleinerziehenden Steuerpflichtigen
+      mit mindestens einem Kind wird ein Freibetrag gewährt.
+    rechtsnorm: § 24b Entlastungsbetrag für Alleinerziehende - EStG
+    zielgruppen:
+    - Jedes Alter
+    - Erwerbsalter
+    themenfelder:
+    - Familie & Kinder
+    - Alter & Rente / Versorgung
+  - leistung: Kinderfreibetrag und Familienleistungsausgleich, steuerlicher Betrag,
+      der den Eltern gewährt wird, um das Existenzminimum ihrer Kinder steuerfrei
+      zu stellen.
+    rechtsnorm: § 32 Kinder, Freibeträge für Kinder - EStG, § 31 Familienleistungsausgleich
+      - EStG
+    zielgruppen:
+    - Jedes Alter
+    - Kinder
+    themenfelder:
+    - Familie & Kinder
+  Außergewöhnliche Belastung:
+  - leistung: Steuerliche Unterstützung im Fall von besonderen Belastungen wie z. B.
+      der Pflege Angehöriger.
+    rechtsnorm: § 33a Außergewöhnliche Belastung in besonderen Fällen - EStG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  Pauschbetrag:
+  - leistung: 'Pauschbeträge für Menschen mit Behinderungen, Hinterbliebene und Pflegepersonen:
+      Menschen mit Behinderungen können Pauschbeträge je nach Grad der Behinderung
+      geltend machen (zwischen 360 Euro und 1.420 Euro); Hinterbliebene (z. B. Witwen/Witwer)
+      erhalten einen Pauschbetrag von 1.200 Euro jährlich, wenn sie Unterhalt gezahlt
+      haben; Pflegepersonen von mindestens Pflegegrad 4 erhalten einen Pauschbetrag
+      von 924 Euro jährlich, wenn sie Pflege im eigenen Haushalt leisten.'
+    rechtsnorm: § 33b Pauschbeträge für Menschen mit Behinderungen, Hinterbliebene
+      und Pflegepersonen - EStG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Gesundheit, Pflege & Teilhabe
+  Kindergeld:
+  - leistung: Kindergeld, monatlich für jedes Kind 255 Euro.
+    rechtsnorm: § 66 Höhe des Kindergeldes, Zahlungszeitraum - EStG, § 62 Anspruchsberechtigte
+      - EStG, § 63 Kinder - EStG, § 1 Anspruchsberechtigte - BKGG
+    zielgruppen:
+    - Jedes Alter
+    - Kinder
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Kindergeld-Sonderfall ermöglicht die Auszahlung des Kindergeldes direkt
+      an das Kind oder an eine andere unterstützende Person, wenn der Kindergeldberechtigte
+      seiner Unterhaltspflicht nicht nachkommt.
+    rechtsnorm: § 74 Zahlung des Kindergeldes in Sonderfällen - EStG
+    zielgruppen:
+    - Jedes Alter
+    - Kinder
+    themenfelder:
+    - Familie & Kinder
+  Altersvorsorgezulage:
+  - leistung: Altersvorsorgezulageberechtigung, Anspruch auf Altersvorsorgezulage
+      für begünstigte Personen, und auch der Ehegatte kann zulageberechtigt sein,
+      wenn bestimmte Voraussetzungen wie das Vorhandensein eines Altersvorsorgevertrags
+      und Mindestbeiträge erfüllt sind.
+    rechtsnorm: § 79 Zulageberechtigte - EStG
+    zielgruppen:
+    - Jedes Alter
+    - Erwerbsalter
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Grundzulage, Zulageberechtigte erhlaten eine Grundzulage von 175 Euro
+      jährlich erhält, beginnend ab dem Beitragsjahr 2018. Zulageberechtigte, die
+      zu Beginn des Beitragsjahres noch nicht 25 Jahre alt sind, erhalten zusätzlich
+      eine einmalige Erhöhung der Grundzulage um 200 Euro, jedoch nur für das erste
+      Jahr, in dem eine Zulage beantragt wird.
+    rechtsnorm: § 84 Grundzulage - EStG
+    zielgruppen:
+    - Jedes Alter
+    - Erwerbsalter
+    themenfelder:
+    - Alter & Rente / Versorgung
+  - leistung: Kinderzulage, jährlich 185 Euro für jedes Kind, für das Kindergeld festgesetzt
+      wird, und erhöht sich auf 300 Euro für Kinder, die nach dem 31. Dezember 2007
+      geboren wurden.
+    rechtsnorm: § 85 Kinderzulage - EStG
+    zielgruppen:
+    - Jedes Alter
+    - Kinder
+    themenfelder:
+    - Familie & Kinder
+FPfZG:
+  Pflege:
+  - leistung: Familienpflegezeit, Freistellung von der Arbeit für bis zu 24 Monate
+      zur Pflege eines nahen Angehörigen.
+    rechtsnorm: § 2 Familienpflegezeit - FPfZG, § 2a Inanspruchnahme der Familienpflegezeit
+      - FPfZG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Familie & Kinder
+    - Gesundheit, Pflege & Teilhabe
+  Finanzielle Unterstützung:
+  - leistung: Zinsloses Darlehen während der Freistellung, das in monatlichen Raten
+      ausgezahlt wird. Die Höhe des Darlehens beträgt die Hälfte der Differenz zwischen
+      dem pauschalierten monatlichen Nettoentgelt vor und während der Freistellung.
+    rechtsnorm: § 3 Förderung der pflegebedingten Freistellung von der Arbeitsleistung
+      - FPfZG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Familie & Kinder
+    - Gesundheit, Pflege & Teilhabe
+  - leistung: Stundung der Rückzahlung eines Darlehens unter bestimmten Bedingungen,
+      Teilerlass des Darlehens bei fortbestehender Pflegebedürftigkeit eines nahen
+      Angehörigen.
+    rechtsnorm: § 7 Härtefallregelung - FPfZG
+    zielgruppen:
+    - Jedes Alter
+    - Senior/-innen
+    themenfelder:
+    - Familie & Kinder
+    - Gesundheit, Pflege & Teilhabe
+  Mutterschutz:
+  - leistung: Zuschuss während des Beschäftigungsverbots, Beamtinnen erhalten einen
+      Zuschuss von 13 Euro für jeden Kalendertag eines Beschäftigungsverbots in den
+      letzten sechs Wochen vor der Entbindung und eines Beschäftigungsverbots nach
+      der Entbindung – einschließlich des Entbindungstages –, der in eine Elternzeit
+      fällt.
+    rechtsnorm: § 5 Zuschuss bei Beschäftigungsverbot während einer Elternzeit -  FPfZG
+    zielgruppen:
+    - Jedes Alter
+    - Erwerbsalter
+    themenfelder:
+    - Familie & Kinder
+  Familienleistungen:
+  - leistung: Elternzeit für Beamtinnen und Beamte, Anspruch auf Elternzeit ohne Dienst-
+      oder Anwärterbezüge.
+    rechtsnorm: § 6 Anwendung des Bundeselterngeld- und Elternzeitgesetzes -  FPfZG
+    zielgruppen:
+    - Jedes Alter
+    - Erwerbsalter
+    themenfelder:
+    - Familie & Kinder
+MuSchG:
+  Sozialversicherung:
+  - leistung: Erstattung der Beiträge für Kranken- und Pflegeversicherung während
+      der Elternzeit.
+    rechtsnorm: § 9 Erstattung von Krankenversicherungsbeiträgen - MuSchEltZV
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Familie & Kinder
+    - Gesundheit, Pflege & Teilhabe
+  Mutterschaftsleistungen:
+  - leistung: Mutterschaftsgeld, finanzielle Unterstützung für Frauen vor und nach
+      der Entbindung sowie am Entbindungstag.
+    rechtsnorm: § 19 Mutterschaftsgeld - MuSchG
+    zielgruppen:
+    - Jedes Alter
+    - Erwerbsalter
+    themenfelder:
+    - Familie & Kinder
+  - leistung: Mutterschaftsgeld-Zuschuss, während der Schutzfristen vor und nach der Entbindung
+      sowie für den Entbindungstag.
+    rechtsnorm: § 20 Zuschuss zum Mutterschaftsgeld - MuSchG
+    zielgruppen:
+    - Jedes Alter
+    - Erwerbsalter
+    themenfelder:
+    - Familie & Kinder
+UhVorschG:
+  Unterhaltsleistungen:
+  - leistung: Finanzielle Unterhaltsleistung, wird an berechtigte Personen ausgezahlt und kann durch
+     verschiedene Faktoren, wie das Vorhandensein von Kindergeld oder Einkünften des Berechtigten,
+     gemindert werden.
+    rechtsnorm: § 2 Umfang der Unterhaltsleistung - UhVorschG, § 9 Verfahren und Zahlungsweise
+      - UhVorschG
+    zielgruppen:
+    - Jedes Alter
+    - Kinder
+    themenfelder:
+    - Familie & Kinder
+  Familien- und Kinderleistungen:
+  - leistung: Nichtverfolgung des übergegangenen Unterhaltsanspruchs, wenn der nicht im Haushalt
+      lebende Elternteil Leistungen nach dem Zweiten Buch Sozialgesetzbuch bezieht und kein eigenes
+      Einkommen hat.
+    rechtsnorm: § 7a Übergegangene Ansprüche des Berechtigten bei Leistungsunfähigkeit
+      - UhVorschG
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Familie & Kinder
+WoGG:
+  Wohnungsbeihilfe:
+  - leistung: Wohngeld, Zuschuss zur Miete oder zur Belastung für den selbst genutzten Wohnraum. 
+    rechtsnorm: § 1 Zweck des Wohngeldes - WoGG, § 26 Zahlung des Wohngeldes - WoGG
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Wohnen & Infrastruktur
+  - leistung: Freibeträge für bestimmte Haushaltsmitglieder, Minderung des anrechenbaren
+      Einkommens um mehr oder überhaupt Wohngeld zu erhalten.
+    rechtsnorm: § 17 Freibeträge - WoGG
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Wohnen & Infrastruktur
+  - leistung: Freibetrag, durch Abzug der gesetzlich geregelten Unterhaltsaufwendungen wird das
+      anrechenbare Einkommen gesenkt.
+    rechtsnorm: § 18 Abzugsbeträge für Unterhaltsleistungen - WoGG
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Wohnen & Infrastruktur
+  - leistung: Vorläufige Zahlung des Wohngeldes, wenn zur Feststellung des Wohngeldanspruchs
+      voraussichtlich längere Zeit erforderlich ist und mit hinreichender Wahrscheinlichkeit
+      ein Anspruch auf Wohngeld besteht.
+    rechtsnorm: § 26a Vorläufige Zahlung des Wohngeldes - WoGG
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Wohnen & Infrastruktur
+  - leistung: Finanzielle Unterstützung zur Deckung der Wohnkosten im Todesfall.
+    rechtsnorm: § 30 Rücküberweisung und Erstattung im Todesfall - WoGG
+    zielgruppen:
+    - Jedes Alter
+    themenfelder:
+    - Wohnen & Infrastruktur
