@@ -1,6 +1,11 @@
 # Liste Sozialleistungen
 
-Dieses Repository enthält eine Liste der Sozialleistungen im **YAML**-Format.
+Dieses Repository enthält eine Liste der Sozialleistungen im **YAML**-Format. 
+
+Eine PDF-Version der Liste ist [hier](https://www.ifo.de/publikationen/2025/monographie-autorenschaft/eine-inventur-im-haus-der-sozialen-hilfe-und)  veröffentlicht.
+
+Eine Erklärung zur Methodologie sowie Auswertungen aufbauend auf dieser Inventur befinden sich in [diesem Artikel](https://www.ifo.de/publikationen/2025/aufsatz-zeitschrift/auf-der-suche-nach-passierschein-a38).
+
 
 Stand: September 2025
 
