@@ -1,0 +1,49 @@
+name: Check data explorer
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install generator dependencies
+        run: python -m pip install --upgrade PyYAML openpyxl
+
+      - name: Regenerate explorer
+        run: python yml_transformer.py
+
+      - name: Validate generated files
+        run: |
+          python - <<'PY'
+          import csv
+          import json
+          from pathlib import Path
+
+          rows = list(csv.DictReader(Path("sozialleistungen.csv").open(encoding="utf-8")))
+          payload = json.loads(Path("sozialleistungen.json").read_text(encoding="utf-8"))
+          html = Path("index.html").read_text(encoding="utf-8")
+
+          assert payload["row_count"] == len(rows)
+          assert payload["row_count"] > 100
+          assert "Sozialleistungen Explorer" in html
+          assert "visible-count" in html
+          assert "copy-filter-link" in html
+          assert "URLSearchParams" in html
+          assert "history.replaceState" in html
+          PY
+          git diff --exit-code -- sozialleistungen.csv sozialleistungen.xlsx sozialleistungen.json index.html
