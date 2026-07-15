@@ -301,17 +301,16 @@ SGB II:
     themenfelder:
     - Arbeit & Grundsicherung
     - Bildung & Qualifizierung
-SGB III:
-  Leistungen der Ausbildungsförderung:
+  Leistungen für Auszubildende:
   - leistung: Leistungen für Auszubildende, Mehrbedarf für werdende Mütter.
-    rechtsnorm: § 27 Abs. 2 Versicherungsfreie Beschäftigte SGB III
+    rechtsnorm: § 27 Abs. 2 Leistungen für Auszubildende SGB II
     zielgruppen:
     - Jugendliche
     - Erwerbsalter
     themenfelder:
     - Bildung & Qualifizierung
   - leistung: Leistungen für Auszubildende, Mehrbedarf für Alleinerziehende.
-    rechtsnorm: § 27 Abs. 2 Versicherungsfreie Beschäftigte SGB III
+    rechtsnorm: § 27 Abs. 2 Leistungen für Auszubildende SGB II
     zielgruppen:
     - Jugendliche
     - Erwerbsalter
@@ -319,14 +318,14 @@ SGB III:
     - Bildung & Qualifizierung
   - leistung: Leistungen für Auszubildende, Mehrbedarf für medizinisch bedingte kostenaufwendige
       Ernährung.
-    rechtsnorm: § 27 Abs. 2 Versicherungsfreie Beschäftigte SGB III
+    rechtsnorm: § 27 Abs. 2 Leistungen für Auszubildende SGB II
     zielgruppen:
     - Jugendliche
     - Erwerbsalter
     themenfelder:
     - Bildung & Qualifizierung
   - leistung: Leistungen für Auszubildende, Mehrbedarf für besondere Umstände.
-    rechtsnorm: § 27 Abs. 2 Versicherungsfreie Beschäftigte SGB III
+    rechtsnorm: § 27 Abs. 2 Leistungen für Auszubildende SGB II
     zielgruppen:
     - Jugendliche
     - Erwerbsalter
@@ -334,38 +333,39 @@ SGB III:
     - Bildung & Qualifizierung
   - leistung: Leistungen für Auszubildende, Erstausstattung bei Schwangerschaft und
       Geburt.
-    rechtsnorm: § 27 Abs. 2 Versicherungsfreie Beschäftigte SGB III
+    rechtsnorm: § 27 Abs. 2 Leistungen für Auszubildende SGB II
     zielgruppen:
     - Jugendliche
     - Erwerbsalter
     themenfelder:
     - Bildung & Qualifizierung
   - leistung: Härtefalldarlehen für Auszubildende, Mehrbedarf für dezentrale Warmwassererzeugung.
-    rechtsnorm: § 27 Abs. 3 Versicherungsfreie Beschäftigte SGB III
+    rechtsnorm: § 27 Abs. 3 Leistungen für Auszubildende SGB II
     zielgruppen:
     - Jugendliche
     - Erwerbsalter
     themenfelder:
     - Bildung & Qualifizierung
   - leistung: Härtefalldarlehen für Auszubildende, Bedarf für Unterkunft und Heizung.
-    rechtsnorm: § 27 Abs. 3 Versicherungsfreie Beschäftigte SGB III
+    rechtsnorm: § 27 Abs. 3 Leistungen für Auszubildende SGB II
     zielgruppen:
     - Jugendliche
     - Erwerbsalter
     themenfelder:
     - Bildung & Qualifizierung
   - leistung: Härtefalldarlehen für Auszubildende, Bedarf für Bildung und Teilhabe.
-    rechtsnorm: § 27 Abs. 3 Versicherungsfreie Beschäftigte SGB III
+    rechtsnorm: § 27 Abs. 3 Leistungen für Auszubildende SGB II
     zielgruppen:
     - Jedes Alter
     themenfelder:
     - Gesundheit, Pflege & Teilhabe
   - leistung: Härtefalldarlehen für Auszubildende, Beiträge zur Kranken- und Pflegeversicherung.
-    rechtsnorm: § 27 Abs. 3 Versicherungsfreie Beschäftigte SGB III
+    rechtsnorm: § 27 Abs. 3 Leistungen für Auszubildende SGB II
     zielgruppen:
     - Jedes Alter
     themenfelder:
     - Gesundheit, Pflege & Teilhabe
+SGB III:
   Arbeitsförderung:
   - leistung: Aktive Arbeitsförderung, Beratung, Berufsberatung, Weiterbildungsberatung
       für interessierte Arbeitswillige.
